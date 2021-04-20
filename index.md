@@ -12,7 +12,7 @@
 
       *A specialty of applied econometrics: using regression to uncover the **causal effect** of a treatment on a population.*
       
-      *1. The (most common) underlying theoretical framework: potential outcomes**
+      *1. Our underlying theoretical framework: potential outcomes*
       
       *2. Applied methods (RDD, IV...). Importantly: equivalence of the regression slope estimate in terms of potential outcomes (i.e., "this method really recovers what I want")*
       
