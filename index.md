@@ -5,20 +5,18 @@
 
       *I.e., what does it mean to do inferential statistics, and where does applied microeconometrics fit in the tree of all these methods.*
       
-       *-- Idea: when we are doing applied microeconometrics, we are really doing some inferential statistics. What does that mean?*
-       
-       *--> 'models as probability distributions', inference workflow ...*
+      *(when we are doing applied microeconometrics, we are really doing some inferential statistics. What does that mean? --> 'models as probability distributions', inference workflow ...*
       
       
   - ##### Causal inference in observational studies, *Conceptual Framework & Methods*: [pdf](causal inference.pdf)
 
       *A specialty of applied econometrics: using regression to uncover the **causal effect** of a treatment on a population.*
       
-      *1. the (most common) underlying theoretical framework: **potential outcomes** *
+      *1. The (most common) underlying theoretical framework: potential outcomes**
       
-      *2. applied methods (RDD, IV...). And importantly: the equivalence of the regression slope estimate in terms of these potential outcomes (i.e., "this method really recovers what I want")*
+      *2. Applied methods (RDD, IV...). Importantly: equivalence of the regression slope estimate in terms of potential outcomes (i.e., "this method really recovers what I want")*
       
-      *3. improving our inference (matching & controls, falsification tests, randomization inference...)*
+      *3. Improving our inference (matching & controls, falsification tests, randomization inference...)*
           
 
   - ##### Assumptions of the classical linear regression model (and what to do when they fail): [pdf](CLRM&estimators.pdf)
