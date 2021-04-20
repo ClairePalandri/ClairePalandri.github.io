@@ -3,12 +3,12 @@
 
   - ##### Microeconometrics in Inferential Statistics: [pdf](microeconometrics.pdf)
 
-      *I.e., what does it mean to do inferential statistics, and where does applied microeconometrics fit in the tree of all these methods.*
+      *What does it mean to do inferential statistics, and where does applied microeconometrics fit in the tree of all these methods.*
       
       *(when we are doing applied microeconometrics, we are really doing some inferential statistics. What does that mean? --> 'models as probability distributions', inference workflow ...*
       
       
-  - ##### Causal inference in observational studies, *Conceptual Framework & Methods*: [pdf](causal inference.pdf)
+  - ##### Causal inference in observational studies, *Theory & Methods*: [pdf](causal inference.pdf)
 
       *A specialty of applied econometrics: using regression to uncover the **causal effect** of a treatment on a population.*
       
@@ -32,7 +32,7 @@
   
   - ##### Probability distributions in regression modeling: [pdf](proba_theory.pdf)
 
-      *The statistics theory essential definitions & theorems (LLN & CLT) that make all of this work.*
+      *The essential statistics definitions & theorems (LLN & CLT) that make all of this work.*
       
 
 
