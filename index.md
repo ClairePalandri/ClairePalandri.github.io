@@ -12,7 +12,7 @@
       
   - ##### Causal inference in observational studies, *Conceptual Framework & Methods*: [pdf](causal inference.pdf)
 
-      *I*
+      *A specialty of applied econometrics: using regression to uncover the causal effect of a treatment on a population*
       
           *-- Idea: *
       
@@ -23,8 +23,9 @@
 
       *The two documents above mainly paint the textbook picture. But a lot of assumptions are made along the way. What are they and what do they imply?*
       
-          *1. Describing exactly and succinctly these assumptions.*
-          *2. What do they provide? (estimator properties)*
+      ####### *1. Typical assumptions.*
+      
+      ###### *2. What do they provide? (estimator properties)*
           *3. What to do when they are violated?*
   
   
@@ -33,7 +34,8 @@
       *The statistics theory essential definitions & theorems that make all of this work.*
       
           *-- Content: definitions (moments...), theorems (LLN & CLT), ...*
-      
+
+### 
 
 ### Data wrangling
 
