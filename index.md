@@ -1,9 +1,9 @@
 
-## Applied statistics
+## **Applied statistics**
 
   - #### Microeconometrics in Inferential Statistics: [pdf](microeconometrics.pdf)
 
-       ###### *What does it mean to do inferential statistics, and where does applied microeconometrics fit in the tree of all these methods.*
+       *What does it mean to do inferential statistics, and where do applied microeconometrics fit in the tree of all these methods.*
       
        *(When we are doing applied microeconometrics, we are really doing some inferential statistics. What does that mean? --> 'models as probability distributions', inference workflow ...)*
       
@@ -32,7 +32,7 @@
   
   - #### Probability distributions in regression modeling: [pdf](proba_theory.pdf)
 
-      *The essential statistics definitions & theorems (LLN & CLT) that make all of this work.*
+      *The essential statistics definitions & theorems (esp. LLN & CLT) that make all of this work.*
       
 
 
