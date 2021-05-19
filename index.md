@@ -8,7 +8,7 @@
        *(When we are doing applied microeconometrics, we are really doing some inferential statistics. What does that mean? --> 'models as probability distributions', inference workflow ...)*
       
       
-  - #### **Causal inference in observational studies, *Theory & Methods***: [pdf](causal inference.pdf)
+  - #### **Causal inference in observational studies, *Theory & Methods***: [pdf](causal_inference.pdf)
 
       *A specialty of applied econometrics: using regression to uncover the **causal effect** of a treatment on a population.*
       
