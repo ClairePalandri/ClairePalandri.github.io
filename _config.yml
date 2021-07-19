@@ -1,3 +1,45 @@
-theme: jekyll-theme-cayman
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+
+author: Claire Palandri
 title: Claire Palandri's GitHub website
-description: Misc. documents for empirical research
+email: cp2913@columbia.edu
+description: >
+  Documents for applied research.
+baseurl: ""
+url: "https://clairepalandri.github.io"
+github_username:  ClairePalandri
+linkedin_username:  claire-palandri-096bb286
+
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - documents.md
+
+
+# Exclude from processing.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
