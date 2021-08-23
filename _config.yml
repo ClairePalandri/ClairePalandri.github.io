@@ -26,10 +26,9 @@ linkedin_username:  claire-palandri-096bb286
 theme: minima
 
 header_pages:
-  - documents.md
+  - _pages/documents.md
 
-include:
-  - _pages
+
 
 
 # Exclude from processing.
