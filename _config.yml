@@ -8,22 +8,22 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-
+# Site settings
 author: Claire Palandri
 title: Claire Palandri's GitHub website
+url: "https://clairepalandri.github.io"
+
+# repository: clairepalandri/clairepalandri.github.io
 email: cp2913@columbia.edu
 description: >
   Documents for applied research.
 baseurl: ""
-url: "https://clairepalandri.github.io"
 github_username:  ClairePalandri
 linkedin_username:  claire-palandri-096bb286
 
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
 
 header_pages:
   - documents.md
@@ -43,3 +43,7 @@ header_pages:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Plugins
+plugins:
+  - jekyll-feed

@@ -4,13 +4,14 @@ title: Test
 permalink: /test/
 ---
 
-```{r setup, include = FALSE, cache = FALSE}
-knitr::opts_chunk$set(cache = TRUE, dpi = 300, fig.width = 8, fig.height = 5)
-```
+### Data generating function
+
+It will prove convenient for me to create a function that generates an instance of the experimental dataset --- i.e. corresponding to one simulation run --- which is what you see in the code below. The exact details are not especially important. (I'm going to coerce the return object into a **data.table** instead of standard data frame, but I'll get back to that later.) For now, just remember that the coefficient on any interaction term should be zero by design. I'll preview the resulting dataset at the end of the code.
 
 
-```{r gen_data}
+{% highlight r %}
 library(data.table)
+
 ## Convenience function for generating our experimental panel data. Takes a 
 ## single argument: `sims` (i.e. how many simulation runs to do we want; defaults 
 ## to 1).
@@ -58,13 +59,4 @@ gen_data = function(sims=1) {
 set.seed(123)
 d = gen_data()
 d
-```
-
-Let's run some regressions on one simulated draw of our dataset. Since this is a panel model, I'll use the (incredible)  **fixest** package to control for country ("id") fixed-effects.
-
-```{r reg1, warning=FALSE, message=FALSE}
-library(fixest)
-mod_level = feols(y ~ x1 * x2 | id, d)
-mod_dmean = feols(y ~ x1_dmean * x2_dmean | id, d)
-etable(mod_level, mod_dmean, se  = 'standard')
-```
+{% endhighlight %}
