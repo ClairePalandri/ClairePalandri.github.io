@@ -25,8 +25,8 @@ linkedin_username:  claire-palandri-096bb286
 # Build settings
 theme: minima
 
-header_pages:
-  - _pages/documents.md
+include:
+  - _pages
 
 
 
