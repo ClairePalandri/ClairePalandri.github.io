@@ -28,6 +28,9 @@ theme: minima
 header_pages:
   - documents.md
 
+include:
+  - _pages
+
 
 # Exclude from processing.
 # Any item listed under the `exclude:` key here will be automatically added to

@@ -1,5 +1,6 @@
 ---
 layout: home
+permalink: /
 ---
 
 Find [here](documents) misc. documents for applied research.
