@@ -6,7 +6,7 @@
       <div class="footer-col footer-col-1">
         <ul class="github-repository">
   	  {%- if site.repository -%}
-    	    Github repository: 
+    	    Github repository:  
     	    <a href="https://github.com/{{ site.repository }}">
       	      <svg class="svg-icon">
 		<use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use>
@@ -22,6 +22,9 @@
 	    <a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg></a>
 	  {%- endif -%}
 	</ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
 
         <ul class="contact-list">
           {%- if site.author -%}
