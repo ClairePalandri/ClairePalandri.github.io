@@ -108,6 +108,7 @@
 .site-footer {
   border-top: 1px solid $grey-color-light;
   background-color: $background-color;
+  line-height: $base-line-height * $base-font-size * 2.25;
   //padding: $spacing-unit / 4;
 }
 
@@ -133,7 +134,7 @@
   float: left;
   margin-bottom: 0;
   padding-bottom: 0;
-  padding-left: $spacing-unit / 8;
+  //padding-left: $spacing-unit / 8;
 }
 
 .footer-col-1 {
