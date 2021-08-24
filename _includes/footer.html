@@ -12,13 +12,13 @@
         {%- include social.html -%}
 
         <ul class="contact-list">
-          <li class="p-name">
+          <a class="p-name">
             {%- if site.author -%}
               {{ site.author | escape }}
             {%- endif -%}
-          </li>
+          </a>
           {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
           {%- endif -%}
         </ul>
 
