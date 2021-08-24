@@ -48,5 +48,3 @@ include:
 # Plugins
 plugins:
   - jekyll-feed
-
-exclude: ['*.Rmd']

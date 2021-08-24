@@ -1,0 +1,8 @@
+
+main:
+  - title: "Home"
+    url: /
+  - title: "Documents"
+    url: /documents/
+  - title: "Test"
+    url: /spiky_globe.html
