@@ -13,13 +13,13 @@ author: Claire Palandri
 title: Claire Palandri's GitHub website
 url: "https://clairepalandri.github.io"
 
-repository: clairepalandri/clairepalandri.github.io
+repository: [GitHub repository](https://github.com/ClairePalandri/ClairePalandri.github.io)
 email: cp2913@columbia.edu
 description: >
   Documents for applied research.
 baseurl: ""
-github_username:  ClairePalandri
-linkedin_username:  claire-palandri-096bb286
+#github_username:  ClairePalandri
+#linkedin_username:  claire-palandri-096bb286
 
 
 # Build settings
