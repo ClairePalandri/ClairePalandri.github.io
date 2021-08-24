@@ -9,7 +9,7 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-author: Claire Palandri
+# author: Claire Palandri
 title: Claire Palandri's GitHub website
 url: "https://clairepalandri.github.io"
 
@@ -18,7 +18,7 @@ email: cp2913@columbia.edu
 description: >
   Documents for applied research.
 baseurl: ""
-github_username:  ClairePalandri
+# github_username:  ClairePalandri
 linkedin_username:  claire-palandri-096bb286
 
 
