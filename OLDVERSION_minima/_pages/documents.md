@@ -1,16 +1,11 @@
 ---
+layout: page
 title: Documents
-author_profile: false
 permalink: /documents/
-header:
-  image: /assets/images/header_image2.jpg
-toc: true
-toc_label: 	" Documents"
-toc_icon: 	"file" # corresponding Font Awesome icon name (without fa prefix)
 ---
 
 
-## Applied statistics
+Applied statistics
 
   - [Microeconometrics within Inferential Statistics](../docs/microeconometrics.pdf)  
 Applied econometrics is one branch of inferential statistics. What does that mean? --> *'models as probability distributions', inference workflow ...*
@@ -33,8 +28,7 @@ The two documents above mainly paint the textbook picture. But a lot of assumpti
   - [Probability distributions in regression modeling](../docs/proba_theory.pdf)  
 The essential statistics definitions & theorems (esp. LLN & CLT) that make all of this work.<br/><br/>
 
-
-## Data wrangling
+Data wrangling
 
   - [Wrangling spatial data in R](../docs/spatialData_R.pdf)
 

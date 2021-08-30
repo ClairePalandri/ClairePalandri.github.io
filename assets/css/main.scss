@@ -1,0 +1,23 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minimal-mistakes";
+
+/* add any overriding/new CSS after the @import minimal-mistakes */
+
+html {
+  font-size: 12px; // change to whatever
+
+  @include breakpoint($medium) {
+    font-size: 14px; // change to whatever
+  }
+
+  @include breakpoint($large) {
+    font-size: 16px; // change to whatever
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 18px; // change to whatever
+  }
+}
