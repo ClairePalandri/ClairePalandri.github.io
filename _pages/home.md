@@ -8,4 +8,4 @@ header:
 ---
 
 
-This website contains (for now) [misc. documents test](documents) for applied research.
+This website contains [misc. documents](documents) for applied research.
