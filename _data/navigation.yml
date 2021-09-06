@@ -3,3 +3,5 @@ main:
     url: /
   - title: "Documents"
     url: /documents/
+  - title: "CV"
+    url: /docs/claire-palandri-CV.pdf
