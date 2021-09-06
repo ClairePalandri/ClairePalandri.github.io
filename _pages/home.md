@@ -10,5 +10,5 @@ header:
 
 This website contains [misc. documents](documents) for applied research.
 
-Test: <a href="http://example.com/" target="_blank">Hello, world!</a>
-Test2
+[]: # To force link to open in a new tab, must code in html, e.g.: <a href="http://example.com/" target="_blank">Hello, world!</a>
+
