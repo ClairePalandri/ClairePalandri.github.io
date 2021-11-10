@@ -3,5 +3,7 @@ main:
     url: /
   - title: "Documents"
     url: /documents/
+  - title: "Teaching"
+    url: /teaching/
   - title: "CV"
     url: /docs/claire-palandri-CV.pdf
