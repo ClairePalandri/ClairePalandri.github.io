@@ -3,7 +3,7 @@ title: Teaching
 author_profile: false
 permalink: /teaching/
 header:
-  image: /assets/images/header_image2.jpg
+  image: /assets/images/header_egypt.jpg
 ---
 
 

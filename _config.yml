@@ -56,7 +56,7 @@ plugins:
 author:
   name   : "Claire Palandri"
   avatar : "/assets/images/my_avatar.jpeg"
-  bio    : " " # My awesome biography constrained to a sentence or two goes here
+  bio    : " " # biography constrained to a sentence or two goes here
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
