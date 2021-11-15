@@ -3,7 +3,7 @@ title: Documents
 author_profile: false
 permalink: /documents/
 header:
-  image: /assets/images/header_image2.jpg
+  image: /assets/images/header_chauvet.jpg
 toc: true
 toc_label: 	" Documents"
 toc_icon: 	"file" # corresponding Font Awesome icon name (without fa prefix)
