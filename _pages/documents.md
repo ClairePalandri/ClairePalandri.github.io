@@ -4,7 +4,7 @@ author_profile: false
 permalink: /documents/
 header:
   image: /assets/images/header_chauvet.jpg
-  caption: "[Chauvet Cave (~ 34,000 BP)](https://archeologie.culture.fr/chauvet/en/symbolic-expressions)"
+  caption: "[**Chauvet Cave** (~ 34,000 BP)](https://archeologie.culture.fr/chauvet/en/symbolic-expressions)"
 toc: true
 toc_label: 	" Documents"
 toc_icon: 	"file" # corresponding Font Awesome icon name (without fa prefix)
