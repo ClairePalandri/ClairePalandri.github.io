@@ -11,6 +11,9 @@ toc_icon: 	"file" # corresponding Font Awesome icon name (without fa prefix)
 ---
 
 
+[//]: <> This page contains misc. documents for applied research.
+
+
 ## Applied statistics
 
   - [Microeconometrics within Inferential Statistics](../docs/microeconometrics.pdf)  

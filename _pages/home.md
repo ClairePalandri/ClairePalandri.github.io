@@ -15,4 +15,5 @@ I received my Ph.D. from Columbia University’s program in [Sustainable Develop
 
 I strive in my research to bring together the insights and methodological strengths — esp. in statistical approaches — of multiple disciplines in order to address such questions, and notably to study a particular system: **animal farming**. I am deeply interested in the relation between humans and domesticated animals, and in its role in the socio-ecological transition. One of my main research interests is the heterogeneity of forms of the animal farming system, and the tradeoffs that they entail.
 
-[//]: <> This website contains [misc. documents](documents) for applied research.
+[//]: <>  My work revolves around the heterogeneity of forms of the animal farming system, and the tradeoffs that they entail.
+
