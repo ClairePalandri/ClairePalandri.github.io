@@ -1,8 +1,8 @@
 ---
 title: Research
 author_profile: false
-permalink: /research/
 classes: wide
+permalink: /research/
 header:
   image: /assets/images/header_image2.jpg
 ---
