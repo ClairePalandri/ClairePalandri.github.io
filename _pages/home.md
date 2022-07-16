@@ -4,7 +4,8 @@ title: "Welcome!"
 author_profile: true
 classes: wide
 header:
-  image: /assets/images/header_image1.jpg
+  image: /assets/images/header_chauvet.jpg
+  caption: "[**Chauvet Cave** (~ 34,000 BP)](https://archeologie.culture.fr/chauvet/en/symbolic-expressions)"
 ---
 
 [//]: <> I am a postdoctoral scholar at the Harris School of Public Policy at the University of Chicago.

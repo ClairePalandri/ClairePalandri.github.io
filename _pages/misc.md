@@ -4,8 +4,7 @@ author_profile: false
 classes: wide
 permalink: /misc/
 header:
-  image: /assets/images/header_chauvet.jpg
-  caption: "[**Chauvet Cave** (~ 34,000 BP)](https://archeologie.culture.fr/chauvet/en/symbolic-expressions)"
+  image: /assets/images/header_image1.jpg
 toc: true
 toc_label: 	"Misc."
 toc_icon: 	"file" # corresponding Font Awesome icon name (without fa prefix)

@@ -4,8 +4,7 @@ author_profile: false
 classes: wide
 permalink: /teaching/
 header:
-  image: /assets/images/header_egypt.jpg
-  caption: "a. Seti and Sekhmet at Abydos, [**b. Apis**](https://art.thewalters.org/detail/22249)"
+  image: /assets/images/header_image2.jpg
 ---
 
 
