@@ -3,9 +3,9 @@ main:
     url: /
   - title: "Research"
     url: /research/
-  - title: "Documents"
-    url: /documents/
   - title: "Teaching"
     url: /teaching/
   - title: "CV"
     url: /docs/claire-palandri-CV.pdf
+  - title: "Misc."
+    url: /misc/
