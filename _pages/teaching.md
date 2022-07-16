@@ -1,6 +1,7 @@
 ---
 title: Teaching
 author_profile: false
+classes: wide
 permalink: /teaching/
 header:
   image: /assets/images/header_egypt.jpg

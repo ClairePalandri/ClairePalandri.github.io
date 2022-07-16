@@ -1,6 +1,7 @@
 ---
 title: Misc.
 author_profile: false
+classes: wide
 permalink: /misc/
 header:
   image: /assets/images/header_chauvet.jpg
