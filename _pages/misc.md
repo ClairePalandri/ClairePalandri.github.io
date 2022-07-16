@@ -13,6 +13,8 @@ toc_icon: 	"file" # corresponding Font Awesome icon name (without fa prefix)
 
 [//]: <> This page contains misc. documents for applied research.
 
+This page contains misc. documents for applied econometrics research, that I continuously update.
+
 
 ## Applied statistics
 

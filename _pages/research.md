@@ -2,6 +2,7 @@
 title: Research
 author_profile: false
 permalink: /research/
+classes: wide
 header:
   image: /assets/images/header_image2.jpg
 ---
