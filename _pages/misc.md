@@ -12,7 +12,7 @@ toc_icon: 	"file" # corresponding Font Awesome icon name (without fa prefix)
 [//]: <> This page contains misc. documents for applied research.
 
 This page contains misc. documents for applied econometrics research, that I update regularly.
-<span style="font-size:15px;">
+<span style="font-size:13px;">
 Originally personal notes, then used as foundation for teaching PhD students, now dumped online in case they would be useful to others.</span>
 
 
@@ -25,10 +25,10 @@ Applied econometrics is one branch of inferential statistics. What does that mea
       
   - [Causal inference in observational studies, Theory & Methods](../docs/causal_inference.pdf)  
 <span style="font-size:15px;">
-Using regression to uncover the **causal effect** of a treatment on a population.</span>
-    * <span style="font-size:15px;">The underlying theoretical framework: potential outcomes</span>
-    * <span style="font-size:15px;"> Applied methods (RDD, IV...). Importantly: equivalence of the regression slope estimate in terms of potential outcomes</span>
-    * <span style="font-size:15px;">Improving one's inference (matching & controls, falsification tests, randomization inference...)</span>
+Using regression to uncover the **causal effect** of a treatment on a population.
+    - The underlying theoretical framework: potential outcomes\\
+    - Applied methods (RDD, IV...). Importantly: equivalence of the regression slope estimate in terms of potential outcomes\\
+    - Improving one's inference (matching & controls, falsification tests, randomization inference...)</span>
 
       
   - [Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf)  
