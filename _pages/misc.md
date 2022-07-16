@@ -12,7 +12,10 @@ toc_icon: 	"file" # corresponding Font Awesome icon name (without fa prefix)
 
 [//]: <> This page contains misc. documents for applied research.
 
-This page contains misc. documents for applied econometrics research, that I continuously update.
+Misc. documents for applied econometrics research, updated regularly.
+
+<span style="font-size:13px;">
+(Originally personal notes on applied statistics, later used as foundation for teaching PhD students, now dumped online in case they would be useful to others.)</span>
 
 
 ## Applied statistics
