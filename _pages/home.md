@@ -16,8 +16,8 @@ I received my Ph.D. from Columbia University’s program in [Sustainable Develop
 
 I strive in my research to bring together the insights and methodological strengths of multiple disciplines in order to address such questions, and notably to study the **animal farming system**. I am deeply interested in the relation between humans and domesticated animals, and in the role it may play in the socio-ecological transition. My main research interests relate to 2 areas:
 
-	- The diverse forms of animal farming systems, from artisanal to industrial, and the tradeoffs that they entail;
-	- Bridging differences between the statistical approaches of disciplines whose collaborative work is needed on such interdisciplinary questions.
+  - The diverse forms of animal farming systems, from artisanal to industrial, and the tradeoffs that they entail;
+  - Bridging differences between the statistical approaches of disciplines whose collaborative work is needed on such interdisciplinary questions.
 
 [//]: <>  My work revolves around / One of my main research interests is the heterogeneity of forms of the animal farming system, and the tradeoffs that they entail.
 
