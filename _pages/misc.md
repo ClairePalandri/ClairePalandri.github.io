@@ -1,5 +1,4 @@
 ---
-title: Misc.
 author_profile: false
 permalink: /misc/
 header:
@@ -20,7 +19,7 @@ This page contains misc. documents for applied econometrics research, that I upd
 ## Applied statistics
 
   - [Microeconometrics within Inferential Statistics](../docs/microeconometrics.pdf)  
-Applied econometrics is one branch of inferential statistics. What does that mean? --> *'models as probability distributions', inference workflow ...*
+<span style="font-size:14px;">Applied econometrics is one branch of inferential statistics. What does that mean? --> *'models as probability distributions', inference workflow ...*</span>
       
       
   - [Causal inference in observational studies, Theory & Methods](../docs/causal_inference.pdf)  
