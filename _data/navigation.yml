@@ -1,10 +1,10 @@
 main:
   - title: "Home"
     url: /
-  - title: "Documents"
-    url: /documents/
   - title: "Research"
     url: /research/
+  - title: "Documents"
+    url: /documents/
   - title: "Teaching"
     url: /teaching/
   - title: "CV"
