@@ -5,7 +5,7 @@ classes: wide
 permalink: /research/
 header:
   image: /assets/images/header_egypt.jpg
-  caption: "a. [**Seti and Sekhmet at Abydos**](https://doi.org/10.2307/3269982), b. [**Apis**](https://art.thewalters.org/detail/22249)"
+  caption: "a. [**Seti and Sekhmet at Abydos**](https://doi.org/10.2307/3269982){:target="_blank"}, b. [**Apis**](https://art.thewalters.org/detail/22249){:target="_blank"}"
 ---
 
 

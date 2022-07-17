@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 header:
   image: /assets/images/header_chauvet.jpg
-  caption: "[**Chauvet Cave**](https://archeologie.culture.fr/chauvet/en/symbolic-expressions) (~ 34,000 BP)"
+  caption: "[**Chauvet Cave**](https://archeologie.culture.fr/chauvet/en/symbolic-expressions){:target="_blank"} (~ 34,000 BP)"
 ---
 
 [//]: <> I am a postdoctoral scholar at the Harris School of Public Policy at the University of Chicago.
@@ -19,5 +19,4 @@ I strive in my research to bring together the insights and methodological streng
   - The diverse forms of animal farming, from artisanal to industrial, and the tradeoffs they entail;
   - Bridging differences between the statistical approaches of disciplines whose collaboration is needed for such interdisciplinary questions.
 
-[//]: <>  My work revolves around / One of my main research interests is the heterogeneity of forms of the animal farming system, and the tradeoffs that they entail.
 
