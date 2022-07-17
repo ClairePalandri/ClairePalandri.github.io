@@ -19,7 +19,7 @@ This page contains misc. documents for applied econometrics research, that I upd
 
   - [Microeconometrics within Inferential Statistics](../docs/microeconometrics.pdf)  
 <span style="font-size:0.8em;">
-Applied econometrics is one branch of inferential statistics. What does that mean? &rarr; *'models as probability distributions', inference workflow ...*
+Applied econometrics is one branch of inferential statistics. What does that mean? &rarr; *Models as probability distributions; inference workflow ...*
 </span>  
       
       
@@ -36,9 +36,9 @@ Using regression to uncover the causal effect of a treatment on a population.
 <span style="font-size:15px;">
 The two documents above mainly paint the textbook picture, which rests on a lot of assumptions. What are they & what do they imply?
 </span>  
-    1. <span style="font-size:0.8em;"> Typical assumptions </span>  
-    2. <span style="font-size:0.8em;"> What do they provide? (estimator properties) </span>  
-    <span style="font-size:0.8em;">3. What to do when they are violated? </span>  
+  <span style="font-size:0.8em;"> 1. Typical assumptions </span>  
+    <span style="font-size:0.8em;"> 2. What do they provide? (estimator properties) </span>  
+    <span style="font-size:0.8em;"> 3. What to do when they are violated? </span>  
 
       
   - [Probability distributions in regression modeling](../docs/proba_theory.pdf)  
@@ -50,10 +50,4 @@ The essential statistics definitions & theorems (esp. LLN & CLT) that make all o
 ## Data wrangling
 
   - [Wrangling spatial data in R](../docs/spatialData_R.pdf)
-
-
-A list
-  A sublist
-    Sublist Item 2
-        Sublist Item 3
 
