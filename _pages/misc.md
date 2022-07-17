@@ -28,7 +28,7 @@ Applied econometrics is one branch of inferential statistics. What does that mea
 Using regression to uncover the causal effect of a treatment on a population.\\
   a. Underlying theoretical framework: potential outcomes\\
 b. Applied methods (RDD, IV...); equivalence of the regression slope estimate in terms of potential outcomes\\
-c. Improving one's inference (matching & controls, falsification tests, randomization inference...)
+c. Improving inferences (matching & controls, falsification tests, randomization inference...)
 </span>  
 
 
@@ -37,7 +37,7 @@ c. Improving one's inference (matching & controls, falsification tests, randomiz
 <span style="font-size:0.8em;">
 The two documents above mainly paint the textbook picture, which rests on a lot of assumptions. What are they & what do they imply?</span>  
     - <span style="font-size:0.8em;"> Typical assumptions</span>  
-    - <span style="font-size:0.8em;"> What do they provide? (estimator properties)</span>  
+    - <span style="font-size:0.8em;"> What do they provide? (Estimator properties)</span>  
     - <span style="font-size:0.8em;"> What to do when they are violated?</span>  
  
       
