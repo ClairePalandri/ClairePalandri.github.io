@@ -25,10 +25,10 @@ Applied econometrics is one branch of inferential statistics. What does that mea
       
   - [Causal inference in observational studies, Theory & Methods](../docs/causal_inference.pdf)  
 <span style="font-size:0.8em;">
-Using regression to uncover the causal effect of a treatment on a population.\\
-- Underlying theoretical framework: potential outcomes\\
-* Applied methods (RDD, IV...). Importantly: equivalence of the regression slope estimate in terms of potential outcomes\\
-* Improving one's inference (matching & controls, falsification tests, randomization inference...)
+Using regression to uncover the causal effect of a treatment on a population.
+    - Underlying theoretical framework: potential outcomes
+    * Applied methods (RDD, IV...). Importantly: equivalence of the regression slope estimate in terms of potential outcomes
+    * Improving one's inference (matching & controls, falsification tests, randomization inference...)
 </span>  
 
       
@@ -38,7 +38,7 @@ The two documents above mainly paint the textbook picture, which rests on a lot 
 </span>  
     1. <span style="font-size:0.8em;"> Typical assumptions </span>  
     2. <span style="font-size:0.8em;"> What do they provide? (estimator properties) </span>  
-    3. <span style="font-size:0.8em;"> What to do when they are violated? </span>  
+    <span style="font-size:0.8em;">3. What to do when they are violated? </span>  
 
       
   - [Probability distributions in regression modeling](../docs/proba_theory.pdf)  
