@@ -10,7 +10,7 @@ toc_icon: 	"file" # corresponding Font Awesome icon name (without fa prefix)
 
 
 This page contains misc. documents for applied econometrics research, that I update regularly.
-<span style="font-size:0.8em;">
+<span style="font-size:0.7em;">
 (Originally personal notes, then used as foundation for teaching PhD students, now dumped online in case they can be useful to others.)
 </span>  
 
@@ -18,7 +18,7 @@ This page contains misc. documents for applied econometrics research, that I upd
 ## Applied statistics
 
   - [Microeconometrics within Inferential Statistics](../docs/microeconometrics.pdf)  
-<span style="font-size:0.75em;">
+<span style="font-size:0.8em;">
 Applied econometrics is one branch of inferential statistics. What does that mean? &rarr; *Models as probability distributions; inference workflow ...*
 </span>  
       
@@ -26,6 +26,7 @@ Applied econometrics is one branch of inferential statistics. What does that mea
   - [Causal inference in observational studies, Theory & Methods](../docs/causal_inference.pdf)  
 <span style="font-size:0.8em;">
 Using regression to uncover the causal effect of a treatment on a population.\\
+test
 1. Underlying theoretical framework: potential outcomes\\
 2. Applied methods (RDD, IV...). Importantly: equivalence of the regression slope estimate in terms of potential outcomes\\
 3. Improving one's inference (matching & controls, falsification tests, randomization inference...)
