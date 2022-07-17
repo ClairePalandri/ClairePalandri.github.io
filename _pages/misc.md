@@ -19,7 +19,7 @@ This page contains misc. documents for applied econometrics research, that I upd
 
   - [Microeconometrics within Inferential Statistics](../docs/microeconometrics.pdf)  
 <span style="font-size:0.8em;">
-Applied econometrics is one branch of inferential statistics. What does that mean? -> &rarr; *'models as probability distributions', inference workflow ...*
+Applied econometrics is one branch of inferential statistics. What does that mean? -> &rarr; &#8594; *'models as probability distributions', inference workflow ...*
 </span>  
       
       
