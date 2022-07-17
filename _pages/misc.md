@@ -19,16 +19,16 @@ Originally personal notes, then used as foundation for teaching PhD students, no
 ## Applied statistics
 
   - [Microeconometrics within Inferential Statistics](../docs/microeconometrics.pdf)  
-<span style="font-size:0.75em;">
+<span style="font-size:0.8em;">
 Applied econometrics is one branch of inferential statistics. What does that mean? --> *'models as probability distributions', inference workflow ...*</span>
       
       
   - [Causal inference in observational studies, Theory & Methods](../docs/causal_inference.pdf)  
 
-|  Using regression to uncover the **causal effect** of a treatment on a population.
-|      - The underlying theoretical framework: potential outcomes
-|      - Applied methods (RDD, IV...). Importantly: equivalence of the regression slope estimate in terms of potential outcomes
-|      - Improving one's inference (matching & controls, falsification tests, randomization inference...)
+Using regression to uncover the **causal effect** of a treatment on a population.
+        - The underlying theoretical framework: potential outcomes
+        - Applied methods (RDD, IV...). Importantly: equivalence of the regression slope estimate in terms of potential outcomes
+        - Improving one's inference (matching & controls, falsification tests, randomization inference...)
 
       
   - [Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf)  
@@ -39,7 +39,7 @@ Applied econometrics is one branch of inferential statistics. What does that mea
 
       
   - [Probability distributions in regression modeling](../docs/proba_theory.pdf)  
-<span style="font-size:15px;">The essential statistics definitions & theorems (esp. LLN & CLT) that make all of this work.</span><br/><br/>
+<span style="font-size:15px;">The essential statistics definitions & theorems (esp. LLN & CLT) that make all of this work.</span>
 
 
 ## Data wrangling
