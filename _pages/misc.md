@@ -40,7 +40,13 @@ The two documents above mainly paint the textbook picture, which rests on a lot 
     <span style="font-size:0.8em;"><li>    1. Typical assumptions </li></span>  
     <span style="font-size:0.8em;">    2. What do they provide? (estimator properties) </span>  
     <span style="font-size:0.8em;">    3. What to do when they are violated? </span>  
-
+<span style="font-size:0.8em;">
+    <ol>
+        <li> Typical assumptions </li>
+        <li> What do they provide? (estimator properties) </li>
+        <li> What to do when they are violated? </li>
+    </ol>
+</span>  
       
   - [Probability distributions in regression modeling](../docs/proba_theory.pdf)  
 <span style="font-size:0.8em;">
