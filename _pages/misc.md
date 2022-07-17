@@ -19,18 +19,17 @@ This page contains misc. documents for applied econometrics research, that I upd
 
   - [Microeconometrics within Inferential Statistics](../docs/microeconometrics.pdf)  
 <span style="font-size:0.8em;">
-Applied econometrics is one branch of inferential statistics. What does that mean? -> &rarr; &#8594; *'models as probability distributions', inference workflow ...*
+Applied econometrics is one branch of inferential statistics. What does that mean? &rarr; *'models as probability distributions', inference workflow ...*
 </span>  
       
       
   - [Causal inference in observational studies, Theory & Methods](../docs/causal_inference.pdf)  
 <span style="font-size:0.8em;">
-Using regression to uncover the causal effect of a treatment on a population.
+Using regression to uncover the causal effect of a treatment on a population.\\
+- Underlying theoretical framework: potential outcomes\\
+* Applied methods (RDD, IV...). Importantly: equivalence of the regression slope estimate in terms of potential outcomes\\
+* Improving one's inference (matching & controls, falsification tests, randomization inference...)
 </span>  
-<span style="font-size:0.8em;">
-    * Underlying theoretical framework: potential outcomes
-    * Applied methods (RDD, IV...). Importantly: equivalence of the regression slope estimate in terms of potential outcomes
-    * Improving one's inference (matching & controls, falsification tests, randomization inference...) </span>  
 
       
   - [Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf)  
@@ -52,10 +51,9 @@ The essential statistics definitions & theorems (esp. LLN & CLT) that make all o
 
   - [Wrangling spatial data in R](../docs/spatialData_R.pdf)
 
-Here is some text with no indentation
 
-| A list
-|   A sublist
-|  Sublist Item 2
-|    Sublist Item 3
+A list
+  A sublist
+    Sublist Item 2
+        Sublist Item 3
 
