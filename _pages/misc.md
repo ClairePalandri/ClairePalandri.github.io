@@ -18,16 +18,15 @@ This page contains misc. documents for applied econometrics research, that I upd
 ## Applied statistics
 
   - [Microeconometrics within Inferential Statistics](../docs/microeconometrics.pdf)  
-<span style="font-size:0.8em;">
+<span style="font-size:0.75em;">
 Applied econometrics is one branch of inferential statistics. What does that mean? &rarr; *Models as probability distributions; inference workflow ...*
 </span>  
       
       
   - [Causal inference in observational studies, Theory & Methods](../docs/causal_inference.pdf)  
 <span style="font-size:0.8em;">
-Using regression to uncover the causal effect of a treatment on a population.
-</span>  
-    <span style="font-size:0.8em;"> - Underlying theoretical framework: potential outcomes \\
+Using regression to uncover the causal effect of a treatment on a population. \\
+- Underlying theoretical framework: potential outcomes \\
     - Applied methods (RDD, IV...). Importantly: equivalence of the regression slope estimate in terms of potential outcomes \\
     - Improving one's inference (matching & controls, falsification tests, randomization inference...)</span>  
 
@@ -35,9 +34,8 @@ Using regression to uncover the causal effect of a treatment on a population.
       
   - [Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf)  
 <span style="font-size:0.8em;">
-The two documents above mainly paint the textbook picture, which rests on a lot of assumptions. What are they & what do they imply?
-</span>  
-    <span style="font-size:0.8em;">    1. Typical assumptions </span>  
+The two documents above mainly paint the textbook picture, which rests on a lot of assumptions. What are they & what do they imply? \\
+1. Typical assumptions </span>  
     <span style="font-size:0.8em;">    2. What do they provide? (estimator properties) </span>  
     <span style="font-size:0.8em;">    3. What to do when they are violated? </span>  
 <span style="font-size:0.8em;">
