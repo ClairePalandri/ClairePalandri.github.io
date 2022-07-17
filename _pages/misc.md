@@ -54,8 +54,8 @@ The essential statistics definitions & theorems (esp. LLN & CLT) that make all o
 
 Here is some text with no indentation
 
-|    A list
-|         A sublist
-|         Sublist Item 2
-|         Sublist Item 3
+| A list
+|   A sublist
+|  Sublist Item 2
+|    Sublist Item 3
 
