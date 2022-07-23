@@ -4,7 +4,7 @@ author_profile: false
 classes: wide
 permalink: /teaching/
 header:
-  image: /assets/images/header_image2.jpg
+  image: /assets/images/header_phylogeny.jpg
 ---
 
 
