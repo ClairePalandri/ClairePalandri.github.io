@@ -5,7 +5,7 @@ classes: wide
 permalink: /teaching/
 header:
   image: /assets/images/header_phylogeny.jpg
-  caption: 'a. [**Circle of Life**](https://www.jstor.org/stable/26046885){:target="_blank"} (2016)'
+  caption: 'a. [**Circle of Life**](https://www.jstor.org/stable/26046885){:target="_blank"} (2016), b. [**Humans are apes**](https://australian.museum/learn/science/human-evolution/humans-are-apes-great-apes){:target="_blank"}'
 ---
 
 
