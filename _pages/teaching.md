@@ -5,6 +5,7 @@ classes: wide
 permalink: /teaching/
 header:
   image: /assets/images/header_phylogeny.jpg
+  caption: 'a. [**Circle of Life**](https://www.jstor.org/stable/26046885){:target="_blank"} (2016)
 ---
 
 
