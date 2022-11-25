@@ -16,10 +16,17 @@ Below are misc. documents for applied econometrics research, that I update regul
 
 
 ## Applied statistics
+ 
+      
+  - [Probability distributions in regression modeling](../docs/proba_theory.pdf)  
+<span style="font-size:0.8em;">
+The essential statistics definitions & theorems (esp. LLN & CLT) that make the statistics below work.
+</span>  
+
 
   - [Microeconometrics within Inferential Statistics](../docs/microeconometrics.pdf)  
 <span style="font-size:0.8em;">
-Applied econometrics is one branch of inferential statistics. What does that mean? &rarr; *Models as probability distributions; inference workflow ...*
+Basic inferential statistics most commonly used in applied microeconometrics. *Models as probability distributions; inference workflow ...*
 </span>  
       
       
@@ -31,20 +38,13 @@ b.   Applied methods (RDD, IV...); equivalence of the regression slope estimate 
 c.   Improving inferences (matching & controls, falsification tests, randomization inference...)
 </span>  
 
-
       
   - [Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf)  
 <span style="font-size:0.8em;">
-The two documents above mainly paint the textbook picture, which rests on a lot of assumptions. What are they and what do they imply?</span>  
     - <span style="font-size:0.8em;"> Typical assumptions</span>  
     - <span style="font-size:0.8em;"> What do they provide? (Estimator properties)</span>  
     - <span style="font-size:0.8em;"> What to do when they are violated?</span>  
  
-      
-  - [Probability distributions in regression modeling](../docs/proba_theory.pdf)  
-<span style="font-size:0.8em;">
-The essential statistics definitions & theorems (esp. LLN & CLT) that make all of this work.
-</span>  
 
 
 ## Data wrangling
