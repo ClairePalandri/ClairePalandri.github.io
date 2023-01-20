@@ -20,7 +20,7 @@ Below are misc. documents for applied econometrics research, that I update regul
     - <span style="font-size:0.8em;"> What do they provide? (Estimator properties)</span>  
     - <span style="font-size:0.8em;"> What to do when they are violated?</span>  
 
-<object data="../docs/causal_inference.pdf" width="1000" height="1000" type='application/pdf'/></object>
+<object data="../docs/causal_inference.pdf" type='application/pdf' width="1000" height="1000"></object>
 
 
 ## Data wrangling
