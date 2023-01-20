@@ -1,8 +1,4 @@
-# Jekyll
-
-# Site settings:
-# In the HTML files, will appear as {{ site.title }}, {{ site.email }}...
-# Can also create any custom variable via {{ site.myvariable }}.
+# Jekyll - Site settings:
 
 title: Claire Palandri
 email:
@@ -23,10 +19,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
+# Exclude from processing:
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
@@ -35,7 +28,7 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# Plugins (previously gems:)
+# Plugins (previously gems)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -43,6 +36,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-pdf-embed
 
 author:
   name   : "Claire Palandri"

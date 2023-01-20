@@ -37,6 +37,7 @@ a.   Underlying theoretical framework: potential outcomes\\
 b.   Applied methods (RDD, IV...); equivalence of the regression slope estimate in terms of potential outcomes\\
 c.   Improving inferences (matching & controls, falsification tests, randomization inference...)
 </span>  
+{% pdf "../docs/causal_inference.pdf" no_link width=350px height=500px %}
 
       
   - [Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf)  
