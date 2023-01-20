@@ -1,4 +1,4 @@
-# Jekyll - Site settings:
+# JEKYLL - SITE SETTINGS
 
 title: Claire Palandri
 email:
@@ -19,16 +19,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
 
-# Exclude from processing:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Plugins (previously gems)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -81,3 +71,12 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Exclude from processing:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
