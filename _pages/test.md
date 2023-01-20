@@ -28,6 +28,7 @@ The essential statistics definitions & theorems (esp. LLN & CLT) that make the s
 <span style="font-size:0.8em;">
 Basic inferential statistics most commonly used in applied microeconometrics. *Models as probability distributions; inference workflow ...*
 </span>  
+{% pdf "../docs/causal_inference.pdf" no_link width=50% %}
       
       
   - [Causal inference in observational studies, Theory & Methods](../docs/causal_inference.pdf)  
