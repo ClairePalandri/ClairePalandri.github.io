@@ -1,12 +1,11 @@
 ---
 title: Research
 author_profile: false
+classes: wide
 permalink: /research/
 header:
   image: /assets/images/header_egypt.jpg
   caption: 'a. [**Seti and Sekhmet at Abydos**](https://doi.org/10.2307/3269982){:target="_blank"}, b. [**Apis**](https://art.thewalters.org/detail/22249){:target="_blank"}'
-toc: true
-toc_label: 	"Research"
 ---
 
 
@@ -38,8 +37,14 @@ Do climate conditions and extreme events fuel conflict and migration? This quest
 
 ## Work in progress
 
-  - **Cow milk response to humid heat**  *w. Ram Fishman, Eyal Frank, and Ayal Kimhi*
+  - **Cow milk response to humid heat**
+<span style="font-size:0.8em;">
+*w. Ram Fishman, Eyal Frank, and Ayal Kimhi*
+</span>
 
-  - **The Impacts of Right-To-Farm Laws on Agricultural Productivity**  *w. Anthony D'Agostino, and Eyal Frank*
+  - **The Impacts of Right-To-Farm Laws on Agricultural Productivity**
+<span style="font-size:0.8em;">
+*w. Anthony D'Agostino, and Eyal Frank*
+</span>
 
 

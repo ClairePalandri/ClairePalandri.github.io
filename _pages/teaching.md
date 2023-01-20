@@ -11,5 +11,5 @@ header:
 
   - **Causal Inference Workshop (Ph.D.)**
 
-  I designed a PhD-level course on causal inference for interdisciplinary research, and led it for the PhD students in Sustainable Development at Columbia University in Spring 2022. [Syllabus](../docs/CIworkshop_syllabus.pdf)
+  I designed a PhD-level course on causal inference for interdisciplinary research, and led it for the PhD students in Sustainable Development at Columbia University in the Spring of 2022. [Syllabus](../docs/CIworkshop_syllabus.pdf)
 
