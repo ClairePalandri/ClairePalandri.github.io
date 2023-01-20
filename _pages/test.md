@@ -9,3 +9,4 @@ header:
 Below are misc. documents for applied econometrics research, that I update regularly.
 
 
+<embed src="../docs/causal_inference.pdf" type="application/pdf"/>
