@@ -15,25 +15,11 @@ header:
 
 <pre>
 
-
 </pre>
-
-<span style="font-size:0.8em; line-height:5pt;">
-As Teaching Assistant at Columbia University:
-  - <span style="font-size:0.8em; line-height:5pt;">Advanced Economic Development (graduate), *E. Verhoogen*
-  - Microeconomics & Public Policy I (graduate), *G. Jehle*</span>
-  - Microeconomics & Policy Analysis II (graduate), *S. Eren*
-  - Environmental Science for Sustainable Dvpt (undergrad.), *J. C. Mutter & R. DeFries*
-</span>  
-
 
 <font size="2">
 As Teaching Assistant at Columbia University:</font>
-  - <span style="font-size:0.8em; line-height:5pt;">Advanced Economic Development (graduate), *E. Verhoogen*</span>  
-  - Microeconomics & Public Policy I (graduate), *G. Jehle*
-  - Microeconomics & Policy Analysis II (graduate), *S. Eren*
-  - Environmental Science for Sustainable Dvpt (undergrad.), *J. C. Mutter & R. DeFries*
-</span> 
-
-<font size="1"> We are setting the size 1 for this text line which is the smallest text size </font>
-
+  - <font size="2">Advanced Economic Development (graduate), *E. Verhoogen*</font>
+  - <font size="2">Microeconomics & Public Policy I (graduate), *G. Jehle*</font>
+  - <font size="2">Microeconomics & Policy Analysis II (graduate), *S. Eren*</font>
+  - <font size="2">Environmental Science for Sustainable Dvpt (undergrad.), *J. C. Mutter & R. DeFries*</font>  
