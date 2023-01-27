@@ -14,8 +14,8 @@ header:
   I designed a PhD-level course on causal inference for interdisciplinary research, and led it for the PhD students in Sustainable Development at Columbia University in the Spring of 2022. [Syllabus](../docs/CIworkshop_syllabus.pdf)
 
 
-As Teaching Assistant:
 <span style="font-size:0.7em; line-height:6pt;">
+As Teaching Assistant:
   - Advanced Economic Development (graduate), *E. Verhoogen*
   - Microeconomics & Public Policy I (graduate), *G. Jehle*
   - Microeconomics & Policy Analysis II (graduate), *S. Eren*
