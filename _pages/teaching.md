@@ -27,8 +27,8 @@ As Teaching Assistant at Columbia University:
 </span>  
 
 
-<span style="font-size:0.8em; line-height:2pt;">
-As Teaching Assistant at Columbia University:
+<font size="2">
+As Teaching Assistant at Columbia University:</font>
   - <span style="font-size:0.8em; line-height:5pt;">Advanced Economic Development (graduate), *E. Verhoogen*</span>  
   - Microeconomics & Public Policy I (graduate), *G. Jehle*
   - Microeconomics & Policy Analysis II (graduate), *S. Eren*
