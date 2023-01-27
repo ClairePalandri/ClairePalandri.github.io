@@ -41,9 +41,10 @@ c.   Improving inferences (matching & controls, falsification tests, randomizati
       
   - [Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf)  
 <span style="font-size:0.8em;">
-    - <span style="font-size:0.8em;"> Typical assumptions</span>  
-    - <span style="font-size:0.8em;"> What do they provide? (Estimator properties)</span>  
-    - <span style="font-size:0.8em;"> What to do when they are violated?</span>  
+- Typical assumptions\\
+- What do they provide? (Estimator properties)\\
+- What to do when they are violated?
+</span>  
  
 
 
