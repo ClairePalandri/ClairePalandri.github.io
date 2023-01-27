@@ -13,6 +13,12 @@ header:
 
   I designed a PhD-level course on causal inference for interdisciplinary research, and led it for the PhD students in Sustainable Development at Columbia University in the Spring of 2022. [Syllabus](../docs/CIworkshop_syllabus.pdf)
 
+<pre>
+
+
+
+
+</pre>
 
 <span style="font-size:0.8em; line-height:5pt;">
 As Teaching Assistant at Columbia University:
