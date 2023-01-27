@@ -35,11 +35,12 @@ As Teaching Assistant at Columbia University:
   - Microeconomics & Public Policy I (graduate), *G. Jehle*
   - Microeconomics & Policy Analysis II (graduate), *S. Eren*
   - Environmental Science for Sustainable Dvpt (undergrad.), *J. C. Mutter & R. DeFries*  
+
 </span> 
 
-<font size-"1") We are setting the size 1 for this text line which is the smallest text size </font›
+<font size-"1"> We are setting the size 1 for this text line which is the smallest text size </font>
 
-<span style="font-size:0.8em; line-height:5pt;">
+<span style="font-size:0.8em; line-height:2pt;">
 As Teaching Assistant at Columbia University:
 
 - Advanced Economic Development (graduate), *E. Verhoogen*
