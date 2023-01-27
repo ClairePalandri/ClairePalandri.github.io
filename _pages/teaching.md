@@ -28,3 +28,16 @@ As Teaching Assistant at Columbia University:
   - Microeconomics & Policy Analysis II (graduate), *S. Eren*
   - Environmental Science for Sustainable Dvpt (undergrad.), *J. C. Mutter & R. DeFries*  
 </span>  
+
+
+<span style="font-size:0.8em; line-height:5pt;">
+As Teaching Assistant at Columbia University:
+
+- Advanced Economic Development (graduate), *E. Verhoogen*
+
+- Microeconomics & Public Policy I (graduate), *G. Jehle*
+
+- Microeconomics & Policy Analysis II (graduate), *S. Eren*
+
+- Environmental Science for Sustainable Dvpt (undergrad.), *J. C. Mutter & R. DeFries*  
+</span> 
