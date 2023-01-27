@@ -20,10 +20,10 @@ header:
 
 <span style="font-size:0.8em; line-height:5pt;">
 As Teaching Assistant at Columbia University:
-  - Advanced Economic Development (graduate), *E. Verhoogen*
-  - Microeconomics & Public Policy I (graduate), *G. Jehle*
+  - <span style="font-size:0.8em; line-height:5pt;">Advanced Economic Development (graduate), *E. Verhoogen*
+  - Microeconomics & Public Policy I (graduate), *G. Jehle*</span>
   - Microeconomics & Policy Analysis II (graduate), *S. Eren*
-  - Environmental Science for Sustainable Dvpt (undergrad.), *J. C. Mutter & R. DeFries*  
+  - Environmental Science for Sustainable Dvpt (undergrad.), *J. C. Mutter & R. DeFries*
 </span>  
 
 
@@ -32,8 +32,7 @@ As Teaching Assistant at Columbia University:
   - <span style="font-size:0.8em; line-height:5pt;">Advanced Economic Development (graduate), *E. Verhoogen*</span>  
   - Microeconomics & Public Policy I (graduate), *G. Jehle*
   - Microeconomics & Policy Analysis II (graduate), *S. Eren*
-  - Environmental Science for Sustainable Dvpt (undergrad.), *J. C. Mutter & R. DeFries*  
-
+  - Environmental Science for Sustainable Dvpt (undergrad.), *J. C. Mutter & R. DeFries*
 </span> 
 
 <font size="1"> We are setting the size 1 for this text line which is the smallest text size </font>
