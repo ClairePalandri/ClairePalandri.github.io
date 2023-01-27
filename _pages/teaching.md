@@ -17,9 +17,9 @@ header:
 
 </pre>
 
-<font size="2">
+<font size="3">
 As Teaching Assistant at Columbia University:</font>
-  - <font size="2">Advanced Economic Development (graduate), *E. Verhoogen*</font>
-  - <font size="2">Microeconomics & Public Policy I (graduate), *G. Jehle*</font>
-  - <font size="2">Microeconomics & Policy Analysis II (graduate), *S. Eren*</font>
-  - <font size="2">Environmental Science for Sustainable Dvpt (undergrad.), *J. C. Mutter & R. DeFries*</font>  
+  - <font size="3">Advanced Economic Development (graduate), *E. Verhoogen* </font>
+  - <font size="3">Microeconomics & Public Policy I (graduate), *G. Jehle* </font>
+  - <font size="3">Microeconomics & Policy Analysis II (graduate), *S. Eren* </font>
+  - <font size="3">Environmental Science for Sustainable Dvpt (undergrad.), *J. C. Mutter & R. DeFries* </font>  
