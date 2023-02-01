@@ -27,6 +27,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-pdf-embed
+  - jekyll-seo-tag
 
 author:
   name   : "Claire Palandri"
