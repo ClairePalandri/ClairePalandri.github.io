@@ -10,7 +10,7 @@ toc_icon: 	"file" # corresponding Font Awesome icon name (without fa prefix)
 
 
 Below are misc. documents for applied econometrics research, that I update regularly.
-<span style="font-size:0.7em;">
+<span style="font-size:0.85em;">
 (Originally personal notes, then used as foundation for teaching PhD students, now put online in case they can be useful to others.)
 </span>  
 
@@ -19,19 +19,19 @@ Below are misc. documents for applied econometrics research, that I update regul
  
       
   - [Probability distributions in regression modeling](../docs/proba_theory.pdf)  
-<span style="font-size:0.8em;">
+<span style="font-size:0.85em;">
 The essential statistics definitions & theorems (esp. LLN & CLT) that make the statistics below work.
 </span>  
 
 
   - [Microeconometrics within Inferential Statistics](../docs/microeconometrics.pdf)  
-<span style="font-size:0.8em;">
+<span style="font-size:0.85em;">
 Basic inferential statistics most commonly used in applied microeconometrics. *Models as probability distributions; inference workflow ...*
 </span>  
       
       
   - [Causal inference in observational studies, Theory & Methods](../docs/causal_inference.pdf)  
-<span style="font-size:0.8em;">
+<span style="font-size:0.85em;">
 Using regression to uncover the causal effect of a treatment on a population.  
     1. Underlying theoretical framework: potential outcomes
     2. Applied methods (RDD, IV...); equivalence of the regression slope estimate in terms of potential outcomes
