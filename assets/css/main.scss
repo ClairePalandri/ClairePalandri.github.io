@@ -35,10 +35,11 @@ html {
 }
 
 
-/* reduce font size of nested list items */
+/* nested list items */
 li ul,
 li ol {
-  font-size: 0.85em;
+  margin-top: 0.5em;
+  font-size: 0.85em; // reduce font size
 }
 
 
