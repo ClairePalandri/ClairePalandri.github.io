@@ -36,7 +36,7 @@ html {
 
 li ul,
 li ol {
-  font-size: 0.7em;
+  font-size: 0.5em;
 }
 
 /*
@@ -53,7 +53,7 @@ li {
 */
 
 /* type scale: DEFAULTS
-* The type-size-x variables are just em based sizes that act as multipliers of the base font sizes set in pixels. Ex: when the screen size is less than $medium you have a base size of 16px. If you set an element with $type-size-4 or 1.25em it's essentially doing 16 x 1.25 = 20px size. @medium and where the base size jumps to 18px you'll get 18 x 1.25 = 22.5px, @large 20px you'll get 20 x 1.25 = 25px, etc.
+* The type-size-x variables are just em-based sizes that act as multipliers of the base font sizes set in pixels. Ex: when the screen size is less than $medium you have a base size of 16px. If you set an element with $type-size-4 or 1.25em it's essentially doing 16 x 1.25 = 20px size. @medium and where the base size jumps to 18px you'll get 18 x 1.25 = 22.5px, @large 20px you'll get 20 x 1.25 = 25px, etc.
 * https://jayrobwilliams.com/posts/2020/07/customizing-website/
 * https://www.fabriziomusacchio.com/blog/2021-08-11-Minimal_Mistakes_Cheat_Sheet/#text-alignment-and-styling
 * https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/
