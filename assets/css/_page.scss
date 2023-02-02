@@ -122,6 +122,7 @@ body {
   p {
     margin: 0 0 $indent-var;
     text-align: justify;  /* CPA ADDED */
+    text-justify: inter-word;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
