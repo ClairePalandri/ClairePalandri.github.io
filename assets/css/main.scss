@@ -105,6 +105,9 @@ li ol {
     font-family: $sans-serif;
     font-size: $type-size-6;
   }
+  dl dd {
+    margin-left: 0em;
+  }
 
   .small {
     font-size: $type-size-6;
