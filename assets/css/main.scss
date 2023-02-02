@@ -42,7 +42,8 @@ li ol {
 }
 
 /* make defined terms in definitions not bold */
-dl dt {
+dl dt,
+dt dl {
   font-weight: normal;
 }
 
