@@ -24,6 +24,8 @@ li ol {
    EDITS TO _sass/_page.scss
 ==========================================================================*/
 
+/* justify text: https://github.com/mmistakes/minimal-mistakes/issues/883 */
+
 .page__content {
   h2 {
     padding-bottom: 0.5em;
@@ -51,7 +53,7 @@ li ol {
   li,
   dl {
     font-size: 1em;
-    text-align: justify;  /* CPA ADDED */
+    //text-align: justify;  /* CPA ADDED */
   }
 
   /* paragraph indents and alignment */
