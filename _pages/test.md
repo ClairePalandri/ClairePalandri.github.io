@@ -33,14 +33,18 @@ I designed a PhD-level course on causal inference for interdisciplinary research
 Assumptions of the classical linear regression model (and what to do when they fail)
 : test2
 
+
 [Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf)  
 : test3
+
 
   - [Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf)  
   : test
 
+
   - [Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf)  
     : test
+
 
   - [Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf)  
     *   Typical assumptions
