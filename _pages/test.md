@@ -22,28 +22,16 @@ I designed a PhD-level course on causal inference for interdisciplinary research
     * Microeconomics & Policy Analysis II (graduate), *S. Eren*
     * Environmental Science for Sustainable Development (undergraduate), *J. C. Mutter & R. DeFries*
 
-  - [Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf)  
-: test
 
+      
+  - [Causal inference in observational studies, Theory & Methods](../docs/causal_inference.pdf)  
+<span style="font-size:0.85em;">
+Using regression to uncover the causal effect of a treatment on a population.  
+    *   Underlying theoretical framework: potential outcomes
+    *   Applied methods (RDD, IV...); equivalence of the regression slope estimate in terms of potential outcomes
+    *   Improving inferences (matching & controls, falsification tests, randomization inference...)
 
-  - Assumptions of the classical linear regression model (and what to do when they fail)
-: test1
-
-
-Assumptions of the classical linear regression model (and what to do when they fail)
-: test2
-
-
-[Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf)  
-: test3
-
-
-  - [Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf)  
-  : test
-
-
-  - [Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf)  
-    : test
+      
 
 
   - [Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf)  

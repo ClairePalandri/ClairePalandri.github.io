@@ -41,14 +41,6 @@ li ol {
   font-size: 0.85em;
 }
 
-/* edit definition lists */
-dl dt {
-  font-weight: normal; // make 'data term' not bold
-}
-dl dd {
-  margin: 0; // adjust indent for the 'data definition'
-  text-decoration: underline;
-}
 
 /*
 .sidebar {
