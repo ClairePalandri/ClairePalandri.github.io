@@ -12,6 +12,7 @@ group :jekyll_plugins do
   gem "jekyll-gist"
   gem "jekyll-feed"
   gem "jekyll-pdf-embed"
+  gem "jekyll-seo-tag"
   gem "jemoji"
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
