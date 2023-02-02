@@ -41,6 +41,12 @@ li ol {
   font-size: 0.9em;
 }
 
+/* make defined terms in definitions not bold */
+dl dt {
+  font-weight: normal;
+}
+
+
 /*
 .sidebar {
   p, li {
