@@ -43,10 +43,10 @@ li ol {
 
 /* edit definition lists */
 dt {
-  font-weight: normal; // make 'data term' not bold
+  font-weight: lighter; // make 'data term' not bold
 }
 dd {
-  margin: 0.5em; // adjust indent for the 'data definition'
+  margin: 0em; // adjust indent for the 'data definition'
   text-decoration: underline;
 }
 
