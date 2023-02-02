@@ -38,12 +38,11 @@ html {
 /* reduce font size of nested list items */
 li ul,
 li ol {
-  font-size: 0.9em;
+  font-size: 0.85em;
 }
 
 /* make defined terms in definitions not bold */
-dl dt,
-dt dl {
+dt {
   font-weight: normal;
 }
 
