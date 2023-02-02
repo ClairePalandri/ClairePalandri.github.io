@@ -25,6 +25,11 @@ I designed a PhD-level course on causal inference for interdisciplinary research
     * Microeconomics & Policy Analysis II (graduate), *S. Eren*
     * Environmental Science for Sustainable Development (undergraduate), *J. C. Mutter & R. DeFries*
 
+  - [Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf)  
+  : test
+
+  - [Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf)  
+    : test
       
   - [Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf)  
 <span style="font-size:0.8em;line-height:20px">
