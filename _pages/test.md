@@ -1,5 +1,4 @@
 ---
-permalink: /test/
 title: test
 author_profile: false
 ---
