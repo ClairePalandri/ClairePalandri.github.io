@@ -32,20 +32,17 @@ Basic inferential statistics most commonly used in applied microeconometrics. *M
       
   - [Causal inference in observational studies, Theory & Methods](../docs/causal_inference.pdf)  
 <span style="font-size:0.8em;">
-Using regression to uncover the causal effect of a treatment on a population.\\
-a.   Underlying theoretical framework: potential outcomes\\
-b.   Applied methods (RDD, IV...); equivalence of the regression slope estimate in terms of potential outcomes\\
-c.   Improving inferences (matching & controls, falsification tests, randomization inference...)
-</span>  
+Using regression to uncover the causal effect of a treatment on a population.  
+    1. Underlying theoretical framework: potential outcomes
+    2. Applied methods (RDD, IV...); equivalence of the regression slope estimate in terms of potential outcomes
+    3. Improving inferences (matching & controls, falsification tests, randomization inference...)
 
       
   - [Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf)  
-<span style="font-size:0.8em;line-height:20px">
-a.   Typical assumptions\\
-b.   What do they provide? (Estimator properties)\\
-c.   What to do when they are violated?
-</span>  
- 
+    1. Typical assumptions
+    2. What do they provide? (Estimator properties)
+    3. What to do when they are violated?
+
 
 
 ## Data wrangling
