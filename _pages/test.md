@@ -25,5 +25,3 @@ The majority of U.S. animal farming takes place in industrial Animal Feeding Ope
 
 test2
 
-
-<iframe src="../docs/CLRM&estimators.pdf" width="640" height="480"></iframe>
