@@ -35,9 +35,9 @@ I designed a PhD-level course on causal inference for interdisciplinary research
 
       
   - [Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf)  
-    -   Typical assumptions
-    -   What do they provide? (Estimator properties)
-    -   What to do when they are violated?
+    a.   Typical assumptions
+    b.   What do they provide? (Estimator properties)
+    c.   What to do when they are violated?
 
       
   - [Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf)  
@@ -47,26 +47,5 @@ I designed a PhD-level course on causal inference for interdisciplinary research
     c.   What to do when they are violated?
 </span> 
 
-
-  - [**A multilevel Bayesian framework to analyze climate-fueled migration and conflict**](../docs/workingPapers/climate_migration_conflict.pdf)
-<span style="font-size:0.8em;">
-*w. Upmanu Lall, Paulina Concha Larrauri, and Andrew Gelman*
-</span>  
-<span style="font-size:0.7em;">
-Do climate conditions and extreme events fuel conflict and migration? This question, of growing interest given increasingly dire climate change projections, is commonly addressed in causal studies that leverage natural experiments by using a multivariate linear regression model with fixed effects. We show that in the climate-migration-conflict nexus, the features of the data generating process and the implicit prediction motivation make for a substantial departure from the assumptions of the typical linear reduced form model, which challenges the reliability of inferences. We propose a unifying hierarchical Bayesian framework for inferences from the same natural experiments, and describe its benefits for internal and external validity and for analyzing the heterogeneity in response to climate. We illustrate the misleading results that can ensue from the typical approach and the advantages of the hierarchical Bayesian framework by using a conflict dataset representative of the literature.
-</span>  
-
-
-## Work in progress
-
-  - **Cow milk response to humid heat**
-<span style="font-size:0.8em;">
-*w. Ram Fishman, Eyal Frank, and Ayal Kimhi*
-</span>
-
-  - **The Impacts of Right-To-Farm Laws on Agricultural Productivity**
-<span style="font-size:0.8em;">
-*w. Anthony D'Agostino, and Eyal Frank*
-</span>
 
 
