@@ -19,6 +19,11 @@ The majority of U.S. animal farming takes place in industrial Animal Feeding Ope
 
   - **Causal Inference Workshop (Ph.D.)** \
 I designed a PhD-level course on causal inference for interdisciplinary research, and led it for the PhD students in Sustainable Development at Columbia University in the Spring of 2022. [Syllabus](../docs/CIworkshop_syllabus.pdf)
+  - As Teaching Assistant at Columbia University
+    * Advanced Economic Development (graduate), *E. Verhoogen*
+    * Microeconomics & Public Policy I (graduate), *G. Jehle*
+    * Microeconomics & Policy Analysis II (graduate), *S. Eren*
+    * Environmental Science for Sustainable Development (undergraduate), *J. C. Mutter & R. DeFries*
 
       
   - [Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf)  
