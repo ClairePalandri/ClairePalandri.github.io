@@ -1,8 +1,7 @@
 ---
+permalink: /test/
 title: test
 author_profile: false
-classes: wide
-permalink: /test/
 ---
 
 
@@ -19,14 +18,4 @@ The majority of U.S. animal farming takes place in industrial Animal Feeding Ope
     2. What do they provide? (Estimator properties)
     3. What to do when they are violated?
 
-
-Water contamination 
-: The majority of U.S. animal farming takes place in industrial Animal Feeding Operations (AFOs), where large quantities of manure are produced, stored, then typically spread onto fields. The concentration of animal waste is thought to threaten environmental and public health, as airborne and mal farming takes place in industrial Animal Feeding Operations (AFOs), where large quantities of manure are produced, stored, then typically spread onto fields. The concentration...
-
-
-  - **Water contamination by Animal Feeding Operations: Evidence from Iowaand North Carolina**  *(Draft available upon request)*  
-  : The majority of U.S. animal farming takes place in industrial Animal Feeding Operations (AFOs), where large quantities of manure are produced, stored, then typically spread onto fields. The concentration of animal waste is thought to threaten environmental and public health, as airborne and mal farming takes place in industrial Animal Feeding Operations (AFOs), where large quantities of manure are produced, stored, then typically spread onto fields. The concentration...
-
-
-  - **Water contamination by Animal Feeding Operations: Evidence from Iowaand North Carolina**  *(Draft available upon request)*  
-    : The majority of U.S. animal farming takes place in industrial Animal Feeding Operations (AFOs), where large quantities of manure are produced, stored, then typically spread onto fields. The concentration of animal waste is thought to threaten environmental and public health, as airborne and mal farming takes place in industrial Animal Feeding Operations (AFOs), where large quantities of manure are produced, stored, then typically spread onto fields. The concentration...
+![image-right](/assets/images/IDstrategies_table.jpg){: .align-right}

@@ -1,6 +1,6 @@
 ---
-author_profile: false
 permalink: /misc/
+author_profile: false
 header:
   image: /assets/images/header_image1.jpg
 toc: true

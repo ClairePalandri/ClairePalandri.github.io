@@ -1,8 +1,8 @@
 ---
-title: Teaching
-author_profile: false
-classes: wide
 permalink: /teaching/
+title: Teaching
+classes: wide
+author_profile: false
 header:
   image: /assets/images/header_phylogeny.jpg
   caption: 'a. [**Circle of Life**](https://www.jstor.org/stable/26046885){:target="_blank"} (2016), b. [**Humans are apes**](https://australian.museum/learn/science/human-evolution/humans-are-apes-great-apes){:target="_blank"}'
