@@ -28,16 +28,16 @@ I designed a PhD-level course on causal inference for interdisciplinary research
       
   - [Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf)  
 <span style="font-size:0.8em;line-height:20px">
-    a.   Typical assumptions
-    b.   What do they provide? (Estimator properties)
-    c.   What to do when they are violated?
+    *   Typical assumptions
+    *   What do they provide? (Estimator properties)
+    *   What to do when they are violated?
 </span> 
 
       
   - [Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf)  
-    a.   Typical assumptions
-    b.   What do they provide? (Estimator properties)
-    c.   What to do when they are violated?
+    *   Typical assumptions
+    *   What do they provide? (Estimator properties)
+    *   What to do when they are violated?
 
       
   - [Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf)  
