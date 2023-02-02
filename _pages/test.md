@@ -9,7 +9,7 @@ permalink: /test/
 ## Working papers
 
   - **Water contamination by Animal Feeding Operations: Evidence from Iowaand North Carolina**  *(Draft available upon request)*  
-<span style="font-size:0.7em; line-height:6pt;">
+<span style="font-size:0.7em; line-height:0.8em;">
 The majority of U.S. animal farming takes place in industrial Animal Feeding Operations (AFOs), where large quantities of manure are produced, stored, then typically spread onto fields. The concentration of animal waste is thought to threaten environmental and public health, as airborne and ...
 </span>
 
@@ -35,8 +35,8 @@ Using regression to uncover the causal effect of a treatment on a population.
 
 
   - [Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf)  
-    *   Typical assumptions
-    *   What do they provide? (Estimator properties)
-    *   What to do when they are violated?
+    1. Typical assumptions
+    2. What do they provide? (Estimator properties)
+    3. What to do when they are violated?
 
 
