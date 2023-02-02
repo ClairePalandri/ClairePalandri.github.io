@@ -53,14 +53,13 @@ li ol {
   li,
   dl {
     font-size: 1em;
-    //text-align: justify;  /* CPA ADDED */
   }
 
   /* paragraph indents and alignment */
   p {
     margin: 0 0 $indent-var;
     text-align: justify;  /* CPA ADDED */
-    text-justify: inter-word;
+    text-justify: inter-word; /* CPA ADDED */
 
     /* sibling indentation*/
     @if $paragraph-indent == true {

@@ -10,7 +10,7 @@ toc_icon: 	"file" # corresponding Font Awesome icon name (without fa prefix)
 
 
 Below are misc. documents for applied econometrics research, that I update regularly.
-<span style="font-size:0.85em;">
+<span style="font-size:0.75em;">
 (Originally personal notes, then used as foundation for teaching PhD students, now put online in case they can be useful to others.)
 </span>  
 
