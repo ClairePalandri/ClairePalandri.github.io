@@ -19,3 +19,5 @@ The majority of U.S. animal farming takes place in industrial Animal Feeding Ope
     3. What to do when they are violated?
 
 ![image-right](/assets/images/IDstrategies_table.jpg){: .align-right}
+
+<embed src="../docs/CLRM&estimators.pdf" type="application/pdf" />
