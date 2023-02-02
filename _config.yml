@@ -65,6 +65,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      toc: false
 
 category_archive:
   type: liquid
