@@ -1,6 +1,7 @@
 ---
 title: test
 author_profile: false
+permalink: /test/
 ---
 
 
