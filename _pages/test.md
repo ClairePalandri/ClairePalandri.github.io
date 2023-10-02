@@ -13,7 +13,7 @@ The majority of U.S. animal farming takes place in industrial Animal Feeding Ope
 {: style="font-size:.75em;"}
 
 
-  - **Grounding Animal Farming**  
+  - **Grounding Animal Farming**{: style="font-size:1em;"}  
 ![image-right](/assets/images/fig_papers/fig_groundingAF.png){: .align-right width="30%"}
 Animal farming is at a crossroads in industrialized economies, where three frameworks for potential system futures dominate the debate: sustainable intensification, agroecology, and abolition. This paper takes a systems perspective that sheds light on the limitations of each approach, and brings together insights from various disciplines to propose a unifying framework.  
 We first define the boundaries and core components of the system of animal farming, and then identify how each of the three frameworks addresses the interconnections between these elements.
