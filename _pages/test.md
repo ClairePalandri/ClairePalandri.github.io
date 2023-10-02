@@ -2,7 +2,6 @@
 title: test
 author_profile: false
 classes: wide
-permalink: /test/
 excerpt: "Logo Title Text 2"
 header:
   overlay_image: /assets/images/headers/header_egypt.jpg
