@@ -3,8 +3,13 @@ title: test
 author_profile: false
 classes: wide
 permalink: /test/
+header:
+  image: /assets/images/headers/header_egypt.jpg
+  caption: 'a. [**Seti and Sekhmet at Abydos**](https://doi.org/10.2307/3269982){:target="_blank"}, b. [**Apis**](https://art.thewalters.org/detail/22249){:target="_blank"}'
 ---
 
+
+This is a [hover text](## "your hover text") example.
 
 ## Working papers *(manuscripts available upon request)*
 
@@ -13,9 +18,6 @@ The majority of U.S. animal farming takes place in industrial Animal Feeding Ope
 {: style="font-size:.75em;"}
 
 
-  - **Grounding Animal Farming**{: style="font-size:1.25em;"}     
-![image-right](/assets/images/fig_papers/fig_groundingAF.png){: .align-right width="33%"}
-Animal farming is at a crossroads in industrialized economies, where three frameworks for potential system futures dominate the debate: sustainable intensification, agroecology, and abolition. This paper takes a systems perspective that sheds light on some of the limitations of each approach, and brings together insights from various disciplines to propose a unifying framework.The argument first defines the boundaries and core components of the system of animal farming, and then identifies how each of the three frameworks addresses the interconnections between these elements. I bring forward key insights from research in agronomy, sociology and philosophy, which directly address blind spots of each framework, in particular the conditions for sustainable human-animal interactions. First, the sociological paradigm which identifies a work relationship between humans and animals as an essential part of animal farming. This lens reveals the multiple rationalities of animal husbandry and thereby also the limits of existing structures. Second, the extension of the notion of carrying capacity--typically used to qualify the amount of pressure that land can bear—-to the moral suffering that workers performing slaughter can endure.To be sustainable, a framework for animal farming must address the interconnections of the three core components of this socio-ecological system: humans and their institutional structures, farm animals, and land. I articulate one which does: a grounded animal farming system. It recognizes the particular social relationships and the multiple carrying capacities at play as features that distinguish animal farming from other sectors of the economy. I show its parallels with proposed paradigms on how to pursue a larger socio-ecological transition.
-{: style="font-size:.75em;"}
+
 
 
