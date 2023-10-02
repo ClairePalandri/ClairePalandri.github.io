@@ -3,9 +3,9 @@ title: test
 author_profile: false
 classes: wide
 permalink: /test/
+excerpt: "Logo Title Text 2"
 header:
   overlay_image: /assets/images/headers/header_egypt.jpg
-  excerpt: "Logo Title Text 1"
   caption: 'a. [**Seti and Sekhmet at Abydos**](https://doi.org/10.2307/3269982 "Test 1"){:target="_blank"}, b. [**Apis**](https://art.thewalters.org/detail/22249){:target="_blank"}'
 ---
 
