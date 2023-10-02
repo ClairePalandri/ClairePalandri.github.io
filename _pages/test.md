@@ -1,6 +1,7 @@
 ---
 title: test
 author_profile: false
+classes: wide
 permalink: /test/
 ---
 
