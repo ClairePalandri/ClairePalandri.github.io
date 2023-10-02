@@ -22,7 +22,7 @@ The majority of U.S. animal farming takes place in industrial Animal Feeding Ope
 
 
   - **Grounding Animal Farming**  
-![image-right](/assets/images/fig_groundingAF.png){: .align-right width="30%"}
+![image-right](/assets/images/fig_papers/fig_groundingAF.png){: .align-right width="30%"}
 Animal farming is at a crossroads in industrialized economies, where three frameworks for potential system futures dominate the debate: sustainable intensification, agroecology, and abolition. This paper takes a systems perspective that sheds light on the limitations of each approach, and brings together insights from various disciplines to propose a unifying framework.  
 We first define the boundaries and core components of the system of animal farming, and then identify how each of the three frameworks addresses the interconnections between these elements.
 We bring forward key insights from the disciplines of agronomy, sociology and philosophy, which directly address the blind spots of each framework, in particular the conditions for sustainable human-animal interactions. First, the sociological paradigm which identifies animal farming as primarily a work relationship between humans and animals. This lens reveals the multiple rationalities of animal husbandry and thereby also the limits of existing structures. Second, the extension of the notion of carrying capacity, typically used to qualify the amount of pressure that land can bear, to the moral suffering that workers performing slaughter can endure.  
