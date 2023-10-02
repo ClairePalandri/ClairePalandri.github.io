@@ -4,7 +4,7 @@ title: "Welcome"
 author_profile: true
 classes: wide
 header:
-  image: /assets/images/header_chauvet.jpg
+  image: /assets/images/headers/header_chauvet.jpg
   caption: '[**Chauvet Cave**](https://archeologie.culture.fr/chauvet/en/symbolic-expressions){:target="_blank"} (~ 34,000 BP)'
 ---
 
