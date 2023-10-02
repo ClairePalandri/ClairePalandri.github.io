@@ -44,7 +44,7 @@ Do climate conditions and extreme events fuel conflict and migration? This quest
 
   - **The Impacts of Right-To-Farm Laws on Agricultural Productivity**
 <span style="font-size:0.8em;">
-*w. Anthony D'Agostino, and Eyal Frank*
+*w. Anthony D'Agostino and Eyal Frank*
 </span>
 
 
