@@ -39,10 +39,5 @@ Do climate conditions and extreme events fuel conflict and migration? This quest
 *w. Andrew Gelman, Yuling Yao, and Vincent Bagilet*		
 {: style="font-size:.75em;"}
 
-<details><summary>**Test**{: style="font-size:1.25em;"}		</summary>
-Test test
-{: style="font-size:.75em;"}		
-</details>
-
 
 
