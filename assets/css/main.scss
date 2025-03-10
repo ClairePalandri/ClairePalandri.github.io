@@ -152,11 +152,6 @@ html {
 
 
 
-
-
-
-
-
 /*
 .sidebar {
   p, li {
@@ -184,3 +179,94 @@ $type-size-6 : 0.75em;   // ~12px
 $type-size-7 : 0.6875em; // ~11px
 $type-size-8 : 0.625em;  // ~10px
 */
+
+
+
+/*==========================================================================
+CPA
+2025-03
+Style the article/abstract dropdowns
+==========================================================================*/
+
+/*-------------------------------------------
+Style lists: indentation and bullet points
+-------------------------------------------*/
+
+.dropdown-list {
+  padding-left: 20px; 		/* Reduces indentation */
+  list-style-type: none; 	/* Hides bullet points */
+}
+
+.bulleted-list {
+  list-style-type: disc; 	/* Adds bullet points */
+}
+
+
+
+/*-------------------------------------------
+Style article summary text: title and co-authors
+-------------------------------------------*/
+
+.articleTitle_wp {
+  font-size: 0.9em;
+  font-weight: normal; /* font-weight: bold;*/
+}
+.articleTitle_wp:hover {
+  color: #F37970; /*crimson*/
+}
+
+.articleTitle_wip {
+  font-size: 0.9em !important;
+  font-weight: normal;
+}
+
+.coauthors {
+  font-size: 0.8em;
+  font-weight: normal;
+  font-style: italic;
+}
+
+
+/* Style the dropdown summary */
+.dropdown_abstract details summary {
+  cursor: pointer;
+  display: inline-block;
+}
+
+
+/*-------------------------------------------
+Style the content under the dropdown
+-------------------------------------------*/
+
+.dropdown_abstract details p {
+  font-size: 0.8em;
+  padding-left: 20px;     /* Indent the paragraph under the dropdown */
+  /* Images: */
+  display: flex; /* Make the paragraph a flex container */
+  justify-content: space-between; /* Align text to the left and image to the right */
+  align-items: center; /* Vertically center the image */
+}
+
+
+/* Add flexbox styles for dropdown-content with images on the right */
+
+.align-right {
+  flex-shrink: 0; /* Prevent the image from shrinking */
+  max-width: 33%;  /* Adjust the width of the image */
+  height: auto;    /* Maintain the aspect ratio of the image */
+  margin-left: 15px;  /* Space between the image and the text */
+}
+
+.dropdown-content {
+  display: flex;
+  align-items: flex-start;
+}
+
+.text-container {
+  flex: 1;
+}
+
+.text-container p {
+  margin-bottom: 15px; /* Add vertical space between the paragraphs in the text container. */
+}
+
