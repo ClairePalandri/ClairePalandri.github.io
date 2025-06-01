@@ -32,7 +32,7 @@ li ol {
     border-bottom: 1px solid $border-color;
   }
 
-	h1, h2, h3, h4, h5, h6 {
+	h1, h3, h4, h5, h6 {
 		.header-link {
 			position: relative;
 			left: 0.5em;
@@ -47,6 +47,12 @@ li ol {
 		&:hover .header-link {
 			opacity: 1;
 		}
+	}
+	// Completely hide header links on h2s
+	h2 {
+  		.header-link {
+    			display: none !important;
+  		}
 	}
 
   p,
@@ -220,6 +226,11 @@ Style article summary text: title and co-authors
   font-weight: normal;
 }
 
+.article_published {
+  font-size: 0.9em !important;
+  line-height: 1.4em;  /* Optional: improves readability */
+}
+
 .coauthors {
   font-size: 0.8em;
   font-weight: normal;
@@ -230,7 +241,10 @@ Style article summary text: title and co-authors
 /* Style the dropdown summary */
 .dropdown_abstract details summary {
   cursor: pointer;
-  display: inline-block;
+  /*display: inline-block;*/
+  position: relative;
+  padding-left: 1.2em;  /* Space for the arrow */
+  list-style: none; /* Prevent default disclosure triangle */
 }
 
 
@@ -245,6 +259,22 @@ Style the content under the dropdown
   display: flex; /* Make the paragraph a flex container */
   justify-content: space-between; /* Align text to the left and image to the right */
   align-items: center; /* Vertically center the image */
+}
+
+/* Add arrow using ::before */
+.dropdown_abstract details summary::before {
+  content: "▶"; /* Right-pointing arrow */
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 0.8em;
+  line-height: 1.5;
+  transition: transform 0.2s ease;
+}
+
+/* Change arrow when open */
+.dropdown_abstract details[open] summary::before {
+  content: "▼"; /* Down-pointing arrow */
 }
 
 

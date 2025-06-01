@@ -7,6 +7,17 @@ header:
   image: /assets/images/headers/header_egypt2.jpg
   caption: 'a. [**Seti and Sekhmet at Abydos**](https://doi.org/10.2307/3269982){:target="_blank"}, b. [**Apis**](https://art.thewalters.org/detail/22249){:target="_blank"}'
 ---
+## Publications
+
+<ul class="bulleted-list">
+  <li class="article_published">
+    <strong>Palandri, C.</strong>, E.G. Frank, A. Kimhi, Y. Lavon, E. Ezra, and R. Fishman.  
+    “High-Frequency Data Reveal Limits of Adaptation to Heat in Animal Agriculture.”  
+    <em>Science Advances</em>, forthcoming 2025.  
+    <a href="https://doi.org/10.1126/sciadv.adw4780" target="_blank">https://doi.org/10.1126/sciadv.adw4780</a>
+  </li>
+</ul>
+
 ## Working papers _(manuscripts available upon request)_
 
 <ul class="dropdown-list">
@@ -33,18 +44,6 @@ header:
 	</li>
 	<li class="dropdown_abstract">
 		<details>
-			<summary class="articleTitle_wp">Cow milk response to humid heat. <span class="coauthors">w. Eyal Frank, Ram Fishman, and Ayal Kimhi</span></summary>
-			<div class="dropdown-content">
-				<div class="text-container">
-					<p>Quantifying the effect of weather on economic outcomes is more important than ever given climate change projections. The methodological strengths of the climate-economy literature have enabled to precisely estimate response functions across sectors of the economy, but remain to be applied to animal agriculture. Humid heat stress is suggested to be one of the main limiting factors of milk production, however the external validity of existing estimates is limited by underlying linearity assumptions, low data coverage or resolution, and non-inclusion of adaptation potential. We use daily cow-level panel data on milk production, and survey data on adopted cooling technologies, to estimate the effects of humid heat on milk yield, in a setting conducive to large external validity.</p>
-					<p>We find a gradually steeper decline with increasing levels of wet-bulb temperatures, reaching a 9.6% decrease for a day whose average is above 26°C, relative to the 10-12°C range. Such decreases embed both the contemporaneous effect of heat, and the sum of the delayed effects of previous serially-correlated hot days, that are still impactful over 10 days after exposure. We further find that marginal adjustments to the farming process---simple cooling technologies---are associated with reductions in the effect of heat of less than half. We observe a lower sensitivity to heat in less productive cows, suggesting a productivity-resilience trade-off.</p>
-					<p>Under a new climate regime with more frequent and longer humid hot spells, the resilience of a system may become an increasing priority. Our results suggest that more structural changes may be required to reduce the vulnerability of animal agriculture substantially, such as reducing other stressors affecting cows in the dairy industry to reduce the compound effect on cow sensitivity.</p>
-				</div>
-			</div>
-		</details>
-	</li>
-	<li class="dropdown_abstract">
-		<details>
 			<summary class="articleTitle_wp">A multilevel Bayesian framework to analyze climate-fueled migration and conflict. <span class="coauthors">w. Upmanu Lall, Paulina Concha Larrauri, and Andrew Gelman</span></summary>
 			<div class="dropdown-content">
 				<div class="text-container">
@@ -53,11 +52,9 @@ header:
 			</div>
 		</details>
 	</li>
-
-
   <!--
   <li class="item">
-    <h3 class="item-title">Item 2</h3>
+    <h3 class="item-title">Item 2 - test</h3>
     <button class="dropdown-btn">Details</button>
     <div class="dropdown-content">
       <p>Paragraph 1 for item 2.</p>
@@ -70,5 +67,7 @@ header:
 ## Work in progress
 
 <ul class="bulleted-list">
-	<li class="articleTitle_wip">Design of Empirical Studies with Multiple Uses <span class="coauthors">w. Andrew Gelman, Yuling Yao, and Vincent Bagilet</span></li>
+	<li class="articleTitle_wip">The Economic Disamenities and Health Impacts of Animal Feeding Operations <span class="coauthors">w. Anthony D’Agostino and Eyal G. Frank</span></li>
+	<li class="articleTitle_wip">Monopoly and Monopsony Power in Meatpacking <span class="coauthors">w. Joseph Battles and Camilla Schneier</span></li>
+	<li class="articleTitle_wip">Design of Empirical Studies with Multiple Uses <span class="coauthors">w. Vincent Bagilet, Andrew Gelman, and Yuling Yao</span></li>
 </ul>

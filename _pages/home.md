@@ -10,13 +10,13 @@ header:
 
 [//]: <> Comment
 
-I am a postdoctoral scholar at the Harris School of Public Policy at the University of Chicago.
+I am a postdoctoral researcher at the Harris School of Public Policy, University of Chicago.
 
-I received my Ph.D. from Columbia University’s program in [Sustainable Development](https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development){:target="_blank"}, which cultivates an interdisciplinary approach — heavily grounded in economics and statistics — to address the challenges of socio-ecological systems.
+I earned my Ph.D. from Columbia University’s program in [Sustainable Development](https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development){:target="_blank"}, which cultivates an interdisciplinary approach — heavily grounded in economics and statistics — to studying socio-ecological systems.
 
-I strive in my research to bring together the insights and methodological strengths of multiple disciplines to address such questions, and especially to study the animal farming system. I am deeply interested in the relation between humans and domesticated animals, and its place in the socio-ecological transition. My research relates to 2 areas:
+I'm deeply interested in the evolving relationship between human societies and domesticated animals and its role in sustainability. I also care about fostering cross-disciplinary research to address questions for sustainable development. My work centers on:
 
-  - The diverse forms of **animal farming,** from artisanal to industrial, and the trade-offs they entail;
-  - Bringing together the **statistical methods** of disciplines whose collaboration is needed for such interdisciplinary questions.
+  - **Animal farming** and trade-offs across system forms, from artisanal to industrial;
+  - Integrating **statistical methods** across disciplines to support collaboration.
 
 
