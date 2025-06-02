@@ -13,7 +13,7 @@ header:
   <li class="article_published">
     <strong>Palandri, C.</strong>, E.G. Frank, A. Kimhi, Y. Lavon, E. Ezra, and R. Fishman.  
     “High-Frequency Data Reveal Limits of Adaptation to Heat in Animal Agriculture.”  
-    <em>Science Advances</em>, forthcoming 2025.  
+    <em>Science Advances</em>, in press 2025.  
     <a href="https://doi.org/10.1126/sciadv.adw4780" target="_blank">https://doi.org/10.1126/sciadv.adw4780</a>
   </li>
 </ul>
