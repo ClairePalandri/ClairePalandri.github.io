@@ -14,7 +14,7 @@ I am a postdoctoral researcher at the Harris School of Public Policy, University
 
 I received my Ph.D. from Columbia University’s program in [Sustainable Development](https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development){:target="_blank"}, which cultivates an interdisciplinary approach — heavily grounded in economics — to studying socio-ecological systems.
 
-I'm deeply interested in the evolving relationship between our societies and domesticated animals, and its role in sustainability. I also strongly believe that cross-disciplinary research is crucial for addressing the challenges of sustainable development. My work centers on:
+I'm deeply interested in the relationship between human societies and domesticated animals, and its key role in sustainability. I also strongly believe that cross-disciplinary research is crucial for addressing the challenges of sustainable development. My work centers on:
 
   - **Animal farming systems,** especially the economic trade-offs linked to industrialization;
   - Integrating **statistical methods** across disciplines.
