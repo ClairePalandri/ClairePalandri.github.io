@@ -35,7 +35,3 @@ Using regression to uncover the causal effect of a treatment on a population.
     1. Typical assumptions
     2. What do they provide? (Estimator properties)
     3. What to do when they are violated?
-
-## Data wrangling
-
-- [Wrangling spatial data in R](../docs/spatialData_R.pdf){:target="\_blank"}
