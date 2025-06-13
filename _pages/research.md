@@ -72,8 +72,4 @@ header:
 		Credit Access and Climate Adaptation in Dairy Farming
 		<span class="coauthors_unpublished">w. Eyal G. Frank, Ram Fishman, and Ayal Kimhi</span>
 	</li>
-	<li class="article">
-		Design of Empirical Studies with Multiple Uses 
-		<span class="coauthors_unpublished">w. Vincent Bagilet, Andrew Gelman, and Yuling Yao</span>
-	</li>
 </ul>
