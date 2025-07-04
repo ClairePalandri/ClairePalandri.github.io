@@ -15,7 +15,7 @@ header:
       <summary>
 		  <strong>Palandri, C.</strong>, E.G. Frank, A. Kimhi, Y. Lavon, E. Ezra, and R. Fishman.
 				“High-Frequency Data Reveal Limits of Adaptation to Heat in Animal Agriculture.”
-				<em>Science Advances</em> 11, adw4780 (2025).
+				<em>Science Advances</em> 11, eadw4780 (2025).
 				<a href="https://doi.org/10.1126/sciadv.adw4780">https://doi.org/10.1126/sciadv.adw4780</a>
 	  </summary>
       <p>Understanding the impacts of climate change on food systems is a key research priority, but important sectors and the scope for adaptation remain underexplored. Here, we analyze over 320 million daily observations of milk production across 12 years, paired with survey data, to provide estimates of the effect of humid heat and the scope for adaptation. Results indicate that extreme heat reduces milk yield by up to 10%, with effects that persist for more than 10 days. Effects are stronger when cows are at more productive stages, suggesting a productivity-resilience tradeoff. Cooling infrastructure and management adjustments were widely adopted over the preceding two decades, but only partially mitigate these losses, reducing them by less than half. Given the technological advancement and the representation of the climate of key producing countries in our sample, these results suggest that adaptation strategies, even those at the technological frontier, may be insufficient to address climate change damages.</p>
