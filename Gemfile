@@ -19,3 +19,5 @@ group :jekyll_plugins do
 end
 
 gem "webrick", "~> 1.9"
+
+gem "nokogiri", ">= 1.18.9"
