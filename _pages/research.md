@@ -74,4 +74,4 @@ header:
 	</li>
 </ul>
 
-<div class="small-note"><strong>Thoughts on <a href="../docs/thoughtsOnResearchInSDev_dissertationIntro_CPalandri2022.pdf" target="_blank">research for sustainable development</a></strong> (Raw excerpt from the intro of my PhD Dissertation).</div>
+<div class="small-note"><strong>Thoughts on <a href="../docs/thoughtsOnResearchInSDev_dissertationIntro_CPalandri2022.pdf" target="_blank">research for sustainable development</a></strong> (Raw excerpt from the PhD Dissertation).</div>
