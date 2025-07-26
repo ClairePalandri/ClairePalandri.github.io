@@ -3,14 +3,41 @@
 # 'assets/css/main.css' is the theme's main stylesheet file, it loads SCSS partials located in _sass/
 ---
 
-@import "minimal-mistakes";
 
-/* add any overriding/new CSS after the @import minimal-mistakes */
+/*==========================================================================
+0. BEFORE @import minimal-mistakes
+==========================================================================*/
+
+$link-color: #0056d2; // vivid blue
 
 
 /*==========================================================================
-   EDITS TO _sass/_base.scss
+1. @import minimal-mistakes
 ==========================================================================*/
+
+@import "minimal-mistakes";
+
+/* Examples of Minimal Mistakes' defaults:
+a:hover {
+  text-decoration: underline;
+}
+*/
+
+
+/*==========================================================================
+2. AFTER @import minimal-mistakes: OVERRIDING CSS
+==========================================================================*/
+
+// Remove underlines globally
+a {
+  text-decoration: none;
+}
+
+
+
+/*--------------------------------------------------------------------------
+   EDITS TO _sass/_base.scss
+--------------------------------------------------------------------------*/
 
 /* nested list items */
 li ul,
@@ -20,9 +47,9 @@ li ol {
 }
 
 
-/*==========================================================================
+/*--------------------------------------------------------------------------
    EDITS TO _sass/_page.scss
-==========================================================================*/
+--------------------------------------------------------------------------*/
 
 /* justify text: https://github.com/mmistakes/minimal-mistakes/issues/883 */
 
@@ -125,9 +152,9 @@ li ol {
 
 
 
-/*==========================================================================
+/*--------------------------------------------------------------------------
    EDITS TO _sass/_reset.scss
-==========================================================================*/
+--------------------------------------------------------------------------*/
 
 .inner {
   max-width: 80%;
@@ -142,15 +169,12 @@ li ol {
 
 html {
   font-size: 12px; //  when the screen size is less than $medium you have a base size of 12px
-
   @include breakpoint($medium) {
     font-size: 14px;
   }
-
   @include breakpoint($large) {
     font-size: 16px;
   }
-
   @include breakpoint($x-large) {
     font-size: 18px;
   }
@@ -188,12 +212,11 @@ $type-size-8 : 0.625em;  // ~10px
 
 
 
-/*==========================================================================
+/*--------------------------------------------------------------------------
 CPA
-2025-03
+2025-07
 Style the article/abstract dropdowns
-==========================================================================*/
-
+--------------------------------------------------------------------------*/
 
 /*-------------------------------------------
 Style lists
@@ -201,22 +224,21 @@ Style lists
 
 ul.bulleted-list,
 ul.dropdown-list {
-  padding-left: 0;
   font-size: 0.9em;
   line-height: 1.4em;
+  padding-left: 0;
 }
 
 ul.bulleted-list {
   list-style-type: disc;
-  list-style-position: inside; 	/* Bullet list: force proper indent */
+  list-style-position: inside; 	/* force proper indent */
   margin-left: 1.4em;   /* Matches both bullets and toggle alignment */
 }
 
 ul.dropdown-list {
   list-style: none; 	/* Remove bullets */
-  margin-left: 1.2em;
+  margin-left: 0.3em;
 }
-
 
 /*-------------------------------------------
 Style article summary text: title and co-authors
@@ -230,47 +252,57 @@ Style article summary text: title and co-authors
 
 
 /*-------------------------------------------
-Style the dropdown
+Style article details: dropdown and media
 -------------------------------------------*/
 
 .article summary {
   cursor: pointer;
-  position: relative;
-  padding-left: 1.2em;
   list-style: none;
+  position: relative;
+  padding-left: 2em;
   margin-bottom: 0.3em;
 }
 
-/* Hover effect: color */
-.article summary:hover {
-  color: #F37970;
-}
-
-
-/* Arrow before dropdown item */
+/* Dropdown icon */
+/*  -- before open */
 .article summary::before {
-  content: "▶";
+  content: "+"; //"▶";
   position: absolute;
   left: 0;
   top: 0;
-  font-size: 0.8em;
-  transition: transform 0.2s ease;
+  transform: none;
+  font-size: 1.2em;               /* size of the "+" */
+  font-weight: bold;
+  width: 1.1em;                   /* size of the circle */
+  height: 1.1em;
+  line-height: 1em;
+  text-align: center;
+  border: 1px solid #bbb;
+  border-radius: 50%;
+  background-color: #f0f0f0;
+  color: #333;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+  transition: background-color 0.2s, border-color 0.2s, box-shadow 0.2s;
 }
-
-/* Arrow toggle when open */
+/*  -- when hover */
+.article summary:hover::before {
+  background-color: #ccc;           // more contrast
+  border-color: #444;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.35); // deeper shadow
+  color: #111;                      // slightly darker "+"
+}
+/*  -- when open */
 .article details[open] summary::before {
-  content: "▼";
+  content: "-"; //"▼";
 }
 
-
-/* Abstract inside dropdown */
+/* Abstract text inside dropdown */
 .article details p {
   font-size: 0.8em;
   /*margin-left: 1.1em;*/
-  padding-left: 20px;
-  margin-top: 0.4em;
+  padding-left: 28px;
+  margin-top: 0.2em;
 }
-
 
 
 /*-------------------------------------------
@@ -297,3 +329,33 @@ Add flexbox styles for dropdown-content with images on the right
   margin-bottom: 15px; /* Add vertical space between the paragraphs in the text container. */
 }
 
+/* Media links inline with abstract label */
+.media {
+  font-size: 0.8em;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  /*gap: 0.5em 1em;*/
+  gap: 0.6em;
+  left: 4em;
+  position: relative;
+  padding-left: 1.2em; // space between the icon and the text
+  margin-top: 0; /* eliminate spacing above */
+}
+
+.media a {
+  white-space: nowrap;
+}
+
+.media::before {
+  content: "";
+  background-image: url("/assets/images/icons/media-icon.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 0.9em;
+  height: 0.9em;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
