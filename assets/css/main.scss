@@ -210,7 +210,16 @@ $type-size-7 : 0.6875em; // ~11px
 $type-size-8 : 0.625em;  // ~10px
 */
 
+/*--------------------------------------------------------------------------
+CPA
+2025-07
+Small note
+--------------------------------------------------------------------------*/
 
+.small-note {
+  font-size: 0.8em;
+  margin-top: 6em;
+}
 
 /*--------------------------------------------------------------------------
 CPA
@@ -249,7 +258,6 @@ Style article summary text: title and co-authors
   font-weight: normal;
   font-style: italic;
 }
-
 
 /*-------------------------------------------
 Style article details: dropdown and media
@@ -303,7 +311,6 @@ Style article details: dropdown and media
   padding-left: 28px;
   margin-top: 0.2em;
 }
-
 
 /*-------------------------------------------
 Add flexbox styles for dropdown-content with images on the right

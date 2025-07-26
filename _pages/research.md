@@ -73,3 +73,5 @@ header:
 		<span class="coauthors_unpublished">w. Eyal G. Frank, Ram Fishman, and Ayal Kimhi</span>
 	</li>
 </ul>
+
+<div class="small-note"><strong>Thoughts on <a href="../docs/thoughtsOnResearchInSDev_dissertationIntro_CPalandri2022.pdf" target="_blank">research for sustainable development</a></strong> (Raw excerpt from the intro of my PhD Dissertation).</div>
