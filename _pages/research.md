@@ -38,6 +38,12 @@ header:
 	</li>
 	<li class="article">
 		<details>
+			<summary>A Multilevel Bayesian Approach to Climate-Fueled Migration and Conflict.<span class="coauthors_unpublished"> w. Upmanu Lall, Paulina C. Larrauri, Andrew Gelman, and Michael J. Puma</span></summary>
+			<p>Understanding how climate change affects conflict and migration requires rigorous approaches to causal inference. Often, assumptions underlying traditional linear fixed-effects models are not met in reported analyses, and these models frequently overlook the implicit predictive aims of climate–conflict–migration research. The strength of climate effects, especially in spatially heterogeneous settings, may then be poorly inferred and attributed. We apply a multilevel Bayesian modeling approach with partial pooling to better handle spatial heterogeneity, following prescreening to meet modeling assumptions. Applying this framework to a previously published conflict dataset, we show that fixed-effects models may overstate climate impacts in vulnerable regions and overlook critical dynamics in more resilient areas. This approach improves both internal and external validity by balancing bias and variance across regions. We highlight the value of combining econometric identification strategies with flexible statistical modeling to strengthen causal conclusions and enhance predictive performance in the climate-conflict-migration nexus.</p>
+		</details>
+	</li>
+	<li class="article">
+		<details>
 			<summary>Grounding Animal Farming</summary>
 			<div class="dropdown-content">
 				<div class="text-container">
@@ -47,12 +53,6 @@ header:
 				</div>
 				<img src="/assets/images/fig_papers/fig_groundingAF.png" alt="Image" class="align-right" />
 			</div>
-		</details>
-	</li>
-	<li class="article">
-		<details>
-			<summary>A Multilevel Bayesian Approach to Climate-Fueled Migration and Conflict.<span class="coauthors_unpublished"> w. Upmanu Lall, Paulina C. Larrauri, Andrew Gelman, and Michael J. Puma</span></summary>
-			<p>Understanding how climate change affects conflict and migration requires rigorous approaches to causal inference. Often, assumptions underlying traditional linear fixed-effects models are not met in reported analyses, and these models frequently overlook the implicit predictive aims of climate–conflict–migration research. The strength of climate effects, especially in spatially heterogeneous settings, may then be poorly inferred and attributed. We apply a multilevel Bayesian modeling approach with partial pooling to better handle spatial heterogeneity, following prescreening to meet modeling assumptions. Applying this framework to a previously published conflict dataset, we show that fixed-effects models may overstate climate impacts in vulnerable regions and overlook critical dynamics in more resilient areas. This approach improves both internal and external validity by balancing bias and variance across regions. We highlight the value of combining econometric identification strategies with flexible statistical modeling to strengthen causal conclusions and enhance predictive performance in the climate-conflict-migration nexus.</p>
 		</details>
 	</li>
 </ul>
