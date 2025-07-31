@@ -69,7 +69,7 @@ header:
 		<span class="coauthors_unpublished">w. Joseph Battles and Camilla Schneier</span>
 	</li>
 	<li class="article">
-		Credit Access and Climate Adaptation in Dairy Farming
+		Credit Access and Climate Adaptation in Animal Agriculture
 		<span class="coauthors_unpublished">w. Eyal G. Frank, Ram Fishman, and Ayal Kimhi</span>
 	</li>
 </ul>
