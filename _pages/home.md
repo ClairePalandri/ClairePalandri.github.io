@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 header:
   image: /assets/images/headers/header_chauvet.jpg
-  caption: '[**Chauvet Cave**](https://archeologie.culture.fr/chauvet/en/symbolic-expressions){:target="_blank"} (~ 34,000 BP)'
+  caption: '[**Chauvet Cave**](https://archeologie.culture.gouv.fr/chauvet/en/aurignacian-cave-art){:target="_blank"} (~ 34,000 BP)'
 ---
 
 [//]: <> Comment
