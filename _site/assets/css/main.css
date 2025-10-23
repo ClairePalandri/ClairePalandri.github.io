@@ -1435,7 +1435,7 @@ Add flexbox styles for dropdown-content with images on the right
 .text-container p { margin-bottom: 15px; /* Add vertical space between the paragraphs in the text container. */ }
 
 /* Media links inline with abstract label */
-.media { font-size: 0.8em; display: flex; flex-wrap: wrap; align-items: center; /*gap: 0.5em 1em;*/ gap: 0.6em; left: 4em; position: relative; padding-left: 1.2em; margin-top: 0; /* eliminate spacing above */ }
+.media { font-size: 0.8em; display: flex; flex-wrap: wrap; align-items: center; /*gap: 0.5em 1em;*/ gap: 0.4em; left: 4em; position: relative; padding-left: 1.6em; margin-top: 0; /* eliminate spacing above */ }
 
 .media a { white-space: nowrap; }
 

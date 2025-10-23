@@ -344,10 +344,10 @@ Add flexbox styles for dropdown-content with images on the right
   flex-wrap: wrap;
   align-items: center;
   /*gap: 0.5em 1em;*/
-  gap: 0.6em;
+  gap: 0.4em; // horizontal space between the <a> items
   left: 4em;
   position: relative;
-  padding-left: 1.2em; // space between the icon and the text
+  padding-left: 1.6em; // horizontal space between the icon and the first <a> item
   margin-top: 0; /* eliminate spacing above */
 }
 
