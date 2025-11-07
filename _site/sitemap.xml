@@ -13,6 +13,9 @@
 <loc>http://localhost:4000/teaching/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/node_modules/uglify-js/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/docs/CIworkshop_syllabus.pdf</loc>
 <lastmod>2025-07-14T11:27:55+02:00</lastmod>
 </url>
@@ -22,7 +25,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/docs/CV_ClairePalandri.pdf</loc>
-<lastmod>2025-10-01T09:32:39+02:00</lastmod>
+<lastmod>2025-10-23T22:36:29+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/docs/causal_inference.pdf</loc>
@@ -47,5 +50,9 @@
 <url>
 <loc>http://localhost:4000/docs/thoughtsOnResearchInSDev_dissertationIntro_CPalandri2022.pdf</loc>
 <lastmod>2025-08-03T14:08:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/node_modules/uglify-js/tools/domprops.html</loc>
+<lastmod>2025-03-09T22:54:49+01:00</lastmod>
 </url>
 </urlset>
