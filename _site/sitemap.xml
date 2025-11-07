@@ -13,9 +13,6 @@
 <loc>http://localhost:4000/teaching/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/node_modules/uglify-js/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/docs/CIworkshop_syllabus.pdf</loc>
 <lastmod>2025-07-14T11:27:55+02:00</lastmod>
 </url>
@@ -52,7 +49,7 @@
 <lastmod>2025-08-03T14:08:00+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/node_modules/uglify-js/tools/domprops.html</loc>
-<lastmod>2025-03-09T22:54:49+01:00</lastmod>
+<loc>http://localhost:4000/docs/wps/wp_afos-wq_CPalandri.pdf</loc>
+<lastmod>2025-11-07T10:29:42+01:00</lastmod>
 </url>
 </urlset>
