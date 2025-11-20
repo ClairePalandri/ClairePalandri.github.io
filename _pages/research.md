@@ -30,7 +30,9 @@ header:
 			<p>Understanding the impacts of climate change on food systems is a key research priority, but important sectors and the scope for adaptation remain underexplored. Here, we analyze over 320 million daily observations of milk production across 12 years, paired with survey data, to provide estimates of the effect of humid heat and the scope for adaptation. Results indicate that extreme heat reduces milk yield by up to 10%, with effects that persist for more than 10 days. Effects are stronger when cows are at more productive stages, suggesting a productivity-resilience tradeoff. Cooling infrastructure and management adjustments were widely adopted over the preceding two decades, but only partially mitigate these losses, reducing them by less than half. Given the technological advancement and the representation of the climate of key producing countries in our sample, these results suggest that adaptation strategies, even those at the technological frontier, may be insufficient to address climate change damages.</p>
 		</details>
 		<div class="media">
-			<a href="https://www.theguardian.com/environment/2025/jul/03/heatwaves-global-dairy-decline-milk-production-farming-environment" target="_blank">The Guardian,</a><a href="https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(25)00214-1/" target="_blank">The Lancet Planetary Health</a>
+			<a href="https://www.theguardian.com/environment/2025/jul/03/heatwaves-global-dairy-decline-milk-production-farming-environment" target="_blank">The Guardian,</a>
+			<a href="https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(25)00214-1/" target="_blank">The Lancet Planetary Health,</a>
+			<a href="https://www.discovermagazine.com/climate-change-threatens-global-milk-supply-even-on-cooled-dairy-farms-47775" target="_blank">Discover Magazine</a>
 		</div>
 	</li>
 </ul>
