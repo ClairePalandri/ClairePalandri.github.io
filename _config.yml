@@ -34,23 +34,18 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:clairepalandri@uchicago.edu"
-	  target: "_blank"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?hl=en&user=dRdxA8EAAAAJ&sortby=pubdate/"
-	  target: "_blank"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0003-0279-8565/"
-	  target: "_blank"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/claire-palandri-096bb286/"
-	  target: "_blank"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/clairepalandri"
-	  target: "_blank"
 
 footer:
 
@@ -66,7 +61,7 @@ defaults:
 
 assets:
   js:
-	- "assets/js/external-links.js"
+	- "assets/js/main.js"
 
 
 # Exclude from processing:
