@@ -61,7 +61,8 @@ defaults:
 
 assets:
   js:
-	- "assets/js/main.js"
+    - "assets/js/main.js"
+
 
 # Exclude from processing:
 #   - Gemfile
