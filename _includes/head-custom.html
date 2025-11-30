@@ -3,36 +3,8 @@ Automatically included at the bottom of the theme's <head>
 Intended for adding custom CSS, meta tags, JS, etc.
 Does not override the full head.html, just appends to it -->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2575.6">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Courier; -webkit-text-stroke: #000000}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Courier; -webkit-text-stroke: #000000; min-height: 16.0px}
-    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000; min-height: 14.0px}
-    span.s1 {font-kerning: none}
-  </style>
-</head>
-<body>
-<p class="p1"><span class="s1">&lt;script src="{{ "/assets/js/main.js" | relative_url }}"&gt;&lt;/script&gt;</span></p>
-<p class="p1"><span class="s1">&lt;!-- Add CSS with cache busting --&gt;</span></p>
-<p class="p1"><span class="s1">&lt;link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}?v={{ site.time | date: '%Y%m%d' }}"&gt;</span></p>
-<p class="p1"><span class="s1">&lt;!-- Add explicit location of favicon.ico — although it seems that the Minimal Mistakes theme is already finding it automatically --&gt;</span></p>
-<p class="p1"><span class="s1">&lt;link rel="icon" href="{{ '/assets/images/favicon/favicon.ico' | relative_url }}" type="image/x-icon"&gt;</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p3"><span class="s1"></span><br></p>
-</body>
-</html>
-
 <!-- Force cache-busting with versioned CSS (to make sure my new CSS is loaded,): Change v=20250725 to any new value in to force a refresh. -->
 <link rel="stylesheet" href="{{ '/assets/css/main.css?v=202507-01' | relative_url }}">
-
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicon/apple-touch-icon.png">
@@ -49,3 +21,13 @@ Does not override the full head.html, just appends to it -->
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
       integrity="sha512-..."
       crossorigin="anonymous" referrerpolicy="no-referrer">
+
+<!-- Make author-profile links open in a new tab -->
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".author__urls a").forEach(function (link) {
+    link.setAttribute("target", "_blank");
+    link.setAttribute("rel", "noopener noreferrer");
+  });
+});
+</script>
