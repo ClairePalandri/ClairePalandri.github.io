@@ -1,0 +1,33 @@
+<!-- _includes/head_custom.html is an Official override hook
+Automatically included at the bottom of the theme's <head>
+Intended for adding custom CSS, meta tags, JS, etc.
+Does not override the full head.html, just appends to it -->
+
+<!-- Force cache-busting with versioned CSS (to make sure my new CSS is loaded,): Change v=20250725 to any new value in to force a refresh. -->
+<link rel="stylesheet" href="{{ '/assets/css/main.css?v=202507-01' | relative_url }}">
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon/favicon-16x16.png">
+<link rel="manifest" href="/assets/images/favicon/site.webmanifest">
+<link rel="mask-icon" href="/assets/images/favicon/safari-pinned-tab.svg" color="#aaaaaa">
+<link rel="shortcut icon" href="/assets/images/favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/assets/images/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<!-- Load Font Awesome 6 (all styles incl. Brands) -->
+<link rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+      integrity="sha512-..."
+      crossorigin="anonymous" referrerpolicy="no-referrer">
+
+<!-- Make author-profile links open in a new tab -->
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".author__urls a").forEach(function (link) {
+    link.setAttribute("target", "_blank");
+    link.setAttribute("rel", "noopener noreferrer");
+  });
+});
+</script>
