@@ -37,18 +37,21 @@ header:
 	</li>
 </ul>
 
-## Working papers _(manuscripts available upon request)_
+## Working papers
 
 <ul class="dropdown-list">
 	<li class="article">
 		<details>
-			<summary>Chronic and Acute Water Contamination from Animal Feeding Operations</summary>
-			<p>Over the past century, U.S. livestock production has shifted from many small farms to fewer, increasingly larger operations. Today, most animals are raised in confined Animal Feeding Operations (AFOs), where manure is stored on-site and eventually applied to fields. This concentration of waste has long raised concerns about pollution, yet credible causal evidence on its impacts remains scarce. I assemble new panel data linking permitted AFOs in Iowa and North Carolina to downstream water monitoring records. I capture the hydrological structure of pollutant transport by delineating station-specific drainage basins and matching water monitoring stations to upstream facilities. The analysis uses two distinct research designs based on each state's empirical setting. In Iowa, I implement a difference-in-differences design exploiting spatio-temporal variation in the number and size of AFOs. In North Carolina, I implement an event-study approach leveraging extreme precipitation shocks at the precise location of the facilities. Across both settings, I find that AFOs significantly degrade surface water quality. Effects are larger for swine facilities, scale with herd size, and are detected from facilities below the current federal permitting threshold. With global livestock production projected to grow and intensify further, and with regulatory changes in some regions moving toward weaker environmental oversight, these findings provide timely evidence on the pollution risks of large-scale operations.</p>
+			<summary>
+				Water Contamination from Industrial Livestock Production -
+				<a href="https://clairepalandri.github.io/docs/wps/wp_afos-wq_CPalandri.pdf" target="_blank">Latest version</a>
+			</summary>
+			<p>Over the past century, U.S. livestock production has shifted from many small farms to fewer, increasingly larger operations. Today, most animals are raised in confined Animal Feeding Operations (AFOs), where manure is stored on-site and eventually applied to fields. This concentration of waste has long raised concerns about pollution, yet credible causal evidence on its impacts remains scarce. I assemble new panel data linking AFOs in Iowa and North Carolina to downstream water monitoring records and delineate station-specific drainage basins to capture the hydrological structure of pollutant transport. The analysis exploits two complementary research designs. In both states, I implement an event-study approach leveraging extreme precipitation shocks at the location of the confinement sites. In Iowa, I additionally implement a difference-in-differences design exploiting spatio-temporal variation in the number and size of AFOs. Across both settings, I find that AFOs significantly degrade surface water quality. Both chronic and acute responses are largely concave; chronic effects scale with herd size, and pollution loads respond to total livestock burden rather than its distribution across larger or smaller operations. With global livestock production projected to grow and intensify further, and with regulatory changes in some regions moving toward weaker environmental oversight, these findings provide timely evidence on the pollution risks of large-scale operations.</p>
 		</details>
 	</li>
 	<li class="article">
 		<details>
-			<summary>Grounding Animal Farming</summary>
+			<summary>Grounding Animal Farming  - <i>(manuscript available upon request)</i> </summary>
 			<div class="dropdown-content">
 				<div class="text-container">
 					<p>Animal farming is at a crossroads in industrialized economies, where three frameworks for potential system futures dominate the debate: sustainable intensification, agroecology, and abolition. This paper takes a systems perspective that sheds light on some of the limitations of each approach, and brings together insights from various disciplines to propose a unifying framework.</p>
