@@ -21,7 +21,7 @@ The essential statistics definitions & theorems (esp. LLN & CLT) that make the s
 
 - [Microeconometrics within Inferential Statistics](../docs/microeconometrics.pdf){:target="\_blank"}
 <span style="font-size:0.85em;">
-Basic inferential statistics most commonly used in applied microeconometrics. _Models as probability distributions; inference workflow ..._
+Basic inferential statistics most commonly used in applied microeconometrics. _Models as probability distributions; inference workflow; estimator properties ..._
 </span>  
       
 - [Causal inference in observational studies, Theory & Methods](../docs/causal_inference.pdf){:target="\_blank"}
@@ -31,7 +31,9 @@ Using regression to uncover the causal effect of a treatment on a population.
     2. Applied methods (RDD, IV...); equivalence of the regression slope estimate in terms of potential outcomes
     3. Improving inferences (matching & controls, falsification tests, randomization inference...)
   
-- [Assumptions of the classical linear regression model (and what to do when they fail)](../docs/CLRM&estimators.pdf){:target="\_blank"}
-    1. Typical assumptions
-    2. What do they provide? (Estimator properties)
-    3. What to do when they are violated?
+- [Maths for regression modeling](../docs/maths.pdf){:target="\_blank"}
+    - Probability distributions
+    - The essential statistics theorems (esp. LLN & CLT) that make econometrics work
+    - Matrix algebra
+
+
