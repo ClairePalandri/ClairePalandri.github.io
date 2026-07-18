@@ -10,7 +10,9 @@ header:
 
 [//]: <> Comment
 
-I am a postdoctoral researcher at the Harris School of Public Policy, University of Chicago.
+[//]: I am a postdoctoral researcher at the Harris School of Public Policy, University of Chicago.
+
+I am an assistant professor in the **Department of Environmental Economics and Management** at the Hebrew University of Jerusalem.
 
 I completed my Ph.D. at Columbia University's program in [Sustainable Development](https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development){:target="_blank"}, which cultivates an **interdisciplinary** approach — grounded in **economics** — to studying socio-ecological systems.
 
