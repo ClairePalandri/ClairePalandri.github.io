@@ -13,15 +13,11 @@ Below are misc. documents for applied econometrics research, that I update irreg
     (Originally personal notes, then used as foundation for teaching PhD students, now put online in case they can be useful to others.)
 </span>  
 
-## Applied statistics
-- [Probability distributions in regression modeling](../docs/proba_theory.pdf){:target="\_blank"}
-<span style="font-size:0.85em;">
-The essential statistics definitions & theorems (esp. LLN & CLT) that make the statistics below work.
-</span>  
+## Applied statistics  
 
-- [Microeconometrics within Inferential Statistics](../docs/microeconometrics.pdf){:target="\_blank"}
+- [Microeconometrics within inferential statistics](../docs/microeconometrics.pdf){:target="\_blank"}
 <span style="font-size:0.85em;">
-Basic inferential statistics most commonly used in applied microeconometrics. _Models as probability distributions; inference workflow; estimator properties ..._
+Basic inferential statistics most commonly used in applied microeconometrics. _Frequentist vs Bayesian inference; regression models; inference workflow; estimator properties..._
 </span>  
       
 - [Causal inference in observational studies, Theory & Methods](../docs/causal_inference.pdf){:target="\_blank"}
@@ -30,10 +26,6 @@ Using regression to uncover the causal effect of a treatment on a population.
     1. Underlying theoretical framework: potential outcomes
     2. Applied methods (RDD, IV...); equivalence of the regression slope estimate in terms of potential outcomes
     3. Improving inferences (matching & controls, falsification tests, randomization inference...)
-  
-- [Maths for regression modeling](../docs/maths.pdf){:target="\_blank"}
-    - Probability distributions
-    - The essential statistics theorems (esp. LLN & CLT) that make econometrics work
-    - Matrix algebra
+ 
 
 
