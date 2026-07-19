@@ -13,7 +13,7 @@ Below are misc. documents for applied econometrics research, that I update irreg
     (Originally personal notes, then used as foundation for teaching PhD students, now put online in case they can be useful to others.)
 </span>  
 
-## Inferential statistics statistics  
+## Inferential statistics
 
 - [Microeconometrics](../docs/microeconometrics.pdf){:target="\_blank"}
 <span style="font-size:0.85em;">
