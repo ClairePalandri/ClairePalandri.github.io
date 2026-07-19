@@ -24,7 +24,7 @@ Below are misc. documents for applied econometrics research, that I update irreg
 <span style="font-size:0.85em;">
  -- The theory and methods of using regressions to uncover the causal effect of a treatment on a population.  
     1. Underlying theoretical framework: potential outcomes
-    2. Applied methods (RDD, IV...); potential outcomes-equivalent of the slope estimator
+    2. Applied methods (RDD, IV...)
     3. Improving inferences (matching & controls, falsification tests...)
 
 - [Misc. maths for microeconometrics](../docs/maths.pdf){:target="\_blank"}
