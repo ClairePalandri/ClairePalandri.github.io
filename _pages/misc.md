@@ -20,12 +20,16 @@ Below are misc. documents for applied econometrics research, that I update irreg
 Basic inferential statistics most commonly used in applied microeconometrics. _Frequentist vs Bayesian inference; regression models; inference workflow; estimator properties..._
 </span>  
       
-- [Causal inference in observational studies, Theory & Methods](../docs/causal_inference.pdf){:target="\_blank"}
+- [Causal inference in observational studies](../docs/causal_inference.pdf){:target="\_blank"}
 <span style="font-size:0.85em;">
-Using regression to uncover the causal effect of a treatment on a population.  
+The theory and methods of using regressions to uncover the causal effects of treatments on a population.  
     1. Underlying theoretical framework: potential outcomes
     2. Applied methods (RDD, IV...); equivalence of the regression slope estimate in terms of potential outcomes
     3. Improving inferences (matching & controls, falsification tests, randomization inference...)
+
+- [Misc. maths for microeconometrics](../docs/maths.pdf){:target="\_blank"}
+<span style="font-size:0.85em;">
+_Probability distributions; The essential statistics theorems (esp. LLN & CLT) that make the econometrics above work..._
  
 
 
