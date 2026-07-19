@@ -17,7 +17,7 @@ Below are misc. documents for applied econometrics research, that I update irreg
 
 - [Microeconometrics](../docs/microeconometrics.pdf){:target="\_blank"}
 <span style="font-size:0.85em;">
- -- The basic inferential statistics most common in applied microeconometrics _(Frequentist vs Bayesian inference; regression models; inference workflow; estimator properties...)_
+ -- The basic inferential statistics most common in applied microeconometrics _(Inference workflow; frequentist vs Bayesian inference; regression models; estimator properties...)_
 </span>  
       
 - [Causal inference in observational studies](../docs/causal_inference.pdf){:target="\_blank"}
