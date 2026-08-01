@@ -22,7 +22,7 @@ Below are misc. documents for applied econometrics research, that I update irreg
       
 - [Causal inference in observational studies](../docs/causal_inference.pdf){:target="\_blank"}
 <span style="font-size:0.85em;">
- -- The theory and methods of using regressions to uncover the causal effect of a treatment on a population.  
+ -- The theory and methods of identifying and estimating the causal effect of a treatment for a population.  
     1. Underlying theoretical framework: potential outcomes
     2. Applied methods (RDD, IV...)
     3. Improving inferences (matching & controls, falsification tests...)
