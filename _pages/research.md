@@ -51,9 +51,7 @@ header:
 			<summary>Grounding Animal Farming </summary>
 			<div class="dropdown-content">
 				<div class="text-container">
-					<p>Animal farming is at a crossroads in industrialized economies, where three frameworks for potential system futures dominate the debate: sustainable intensification, agroecology, and abolition. This paper takes a systems perspective that sheds light on some of the limitations of each approach, and brings together insights from various disciplines to propose a unifying framework.</p>
-					<p>The argument first defines the boundaries and core components of the system of animal farming, and then identifies how each of the three frameworks addresses the interconnections between these elements. I bring forward key insights from research in agronomy, sociology, and philosophy, which directly address blind spots of each framework, in particular the conditions for sustainable human-animal interactions.</p>
-					<p>To be sustainable, a framework for animal farming must address the interconnections of the three core components of this socio-ecological system: humans and their institutional structures, farm animals, and land. I articulate one which does: a grounded animal farming system. It recognizes the particular social relationships and the multiple carrying capacities at play as features that distinguish animal farming from other sectors of the economy. I show its parallels with proposed paradigms on how to pursue a larger socio-ecological transition.</p>
+					<p>The structure of animal agriculture shapes its ecological and social outcomes, yet ecological limits and human–animal relationships are often examined separately. Taking a systems perspective, this paper examines competing proposals for transforming animal agriculture and brings together insights from the natural and social sciences. Agroecology links production to ecosystems' carrying capacity; understanding farming as a work relationship brings the multiple rationalities of husbandry into view; extending carrying capacity to human moral suffering provides a basis for examining the scale and organization of slaughter work. Together, these perspectives identify relationships and carrying capacities relevant to sustainability, with implications for the scale, form, and hence structure of animal agriculture. They provide a basis for research on the organization of farming and slaughter, including the resilience and performance of more decentralized systems.</p>
 				</div>
 				<img src="/assets/images/fig_papers/fig_groundingAF.png" alt="Image" class="align-right" />
 			</div>
@@ -65,7 +63,7 @@ header:
 
 <ul class="bulleted-list">
 	<li class="article">
-		The Economic Disamenities and Health Impacts of Animal Feeding Operations
+		The Geography of U.S. Livestock Operations: A 35-Year Panel
 		<span class="coauthors_unpublished">w. Anthony D'Agostino and Eyal G. Frank</span>
 	</li>
 	<li class="article">
